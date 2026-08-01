@@ -1,67 +1,86 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Baraja Putra",
+    "username": "23Barajapu",
+    "headline": "Frontend Developer & Web Developer",
+    "affiliation": "Politeknik Negeri Subang",
+    "location": "Subang, Indonesia",
+    "status": "Learning",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Saya menciptakan antarmuka web yang responsif, intuitif, dan menarik secara visual menggunakan React, HTML, CSS, dan Laravel.",
+      "Berfokus pada pengalaman web yang cepat dan modern dengan kode yang bersih, terstruktur, dan performa tinggi."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Frontend & Web Dev",
+    "direction": "Modern Web Apps & Clean Code",
+    "themes": "Responsive / Clean Code / Fullstack",
+    "narrative": "Membangun antarmuka web modern yang menggabungkan estetika desain dengan arsitektur kode yang bersih dan responsif."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Frontend Development",
+      "description": "Membangun UI responsif & interaktif dengan React, Next.js, TypeScript, HTML5, dan CSS."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Web Development",
+      "description": "Mengembangkan aplikasi web full-stack dan REST API dengan Node.js, Laravel, PHP, dan MySQL."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "UI/UX & Performance",
+      "description": "Optimalisasi performa web, struktur kode yang mudah dipelihara, dan pengalaman pengguna yang mulus."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Tobacco Land MIS",
+      "url": "https://mobile.tembakaucaringin.com/",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
+      "focus": "AgriTech & GIS Mobile App",
+      "summary": "Sistem Informasi Manajemen & Pengambilan Keputusan Lahan Tembakau berbasis Mobile & GIS.",
       "heroLabel": "Primary build"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "Tobacco Marketing",
+      "url": "https://tembakaucaringin.com/",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
+      "focus": "E-Commerce & Supply Chain",
+      "summary": "Sistem Informasi Pemasaran & Manajemen Hubungan Pelanggan Produk Tembakau.",
       "heroLabel": "Active system"
+    },
+    {
+      "name": "Biro Jasa Mahkota",
+      "url": "https://bjmahkota.com/",
+      "homepage": "",
+      "focus": "Service Information System",
+      "summary": "Sistem Biro Jasa Layanan Pengurusan STNK, BPKB, Balik Nama, dan Mutasi Kendaraan.",
+      "heroLabel": "Production app"
+    },
+    {
+      "name": "Money Management",
+      "url": "https://money-management-xi-three.vercel.app/",
+      "homepage": "",
+      "focus": "Financial Web App",
+      "summary": "Aplikasi pencatatan keuangan multi-wallet, manajemen anggaran, dan analisis laporan PDF via email.",
+      "heroLabel": "Web application"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
+    "React",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "Node.js",
+    "HTML5",
+    "PHP",
+    "MySQL",
+    "TypeScript",
+    "JavaScript"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "23Barajapu",
+      "url": "https://github.com/23Barajapu",
       "logo": "github",
       "color": "0B1220"
     }

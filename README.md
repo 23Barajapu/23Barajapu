@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=BARA%20PRATAMA&fontSize=60&fontAlignY=35&fontColor=00F5FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=BARAJA%20PUTRA&fontSize=60&fontAlignY=35&fontColor=00F5FF&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Fullstack+Developer;Web+%26+Mobile+Developer;Laravel+%7C+Next.js+%7C+React+Native;System+Architecture+Enthusiast;Building+Scalable+Digital+Products"/>
 

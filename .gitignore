@@ -1,0 +1,11 @@
+# Unused assets / snippet files
+art/github-banner-html.txt
+art/social-media-dark.png
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+.vscode/
+.idea/

@@ -1,239 +1,211 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=BARAJA%20PUTRA&fontSize=60&fontAlignY=35&fontColor=00F5FF&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Fullstack+Developer;Web+%26+Mobile+Developer;Laravel+%7C+Next.js+%7C+React+Native;System+Architecture+Enthusiast;Building+Scalable+Digital+Products"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+  <img alt="23Barajapu Banner" src="art/header-light.png">
+</picture>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=23Barajapu&label=PROFILE+VIEWS&style=for-the-badge&color=00F5FF"/>
+# Hey there, I'm Bara 👋
 
-<img src="https://img.shields.io/github/followers/23Barajapu?style=for-the-badge&color=00F5FF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Web+%26+Mobile+Developer;Fullstack+Developer;Laravel+%7C+React+%7C+Next.js;Building+Useful+Software;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<img src="https://img.shields.io/github/stars/23Barajapu?style=for-the-badge&color=FFD700"/>
+<br>
 
-</div>
-
----
-
-# ⚡ DIGITAL PROFILE
-
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2I5NTRjZmVjMTA1NDM0YzA5Mjk2YmVhZTVkNjg4YjE4YjA4ODU4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
-
-```yaml
-name: Baraja Putra
-
-role:
-  - Fullstack Developer
-  - Web Developer
-  - Mobile Developer
-
-location:
-  - Indonesia
-
-focus:
-  - Laravel Ecosystem
-  - React Ecosystem
-  - Mobile Apps
-  # - SaaS Development
-  # - Artificial Intelligence
-
-currently_learning:
-  # - AI Engineering
-  - System Design
-  - Cloud Architecture
-  - DevOps
-
-life_motto:
-  "Build Something Useful Every Day"
-```
-
-<br clear="both"/>
-
----
-
-# 🧠 TECHNOLOGY ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,laravel,nodejs,express,python,django,mysql,postgres,mongodb,firebase,supabase,docker,git,github,vscode,linux"/>
+![Profile Views](https://komarev.com/ghpvc/?username=23Barajapu&label=Profile%20Views&color=7d20db&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/23Barajapu?color=7d20db&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/23Barajapu?affiliations=OWNER%2CCOLLABORATOR&color=7d20db&style=for-the-badge)
 
 </div>
 
 ---
 
-# 🚀 DEVELOPMENT METRICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=23Barajapu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Barajapu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=23Barajapu&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 ACTIVITY GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=23Barajapu&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=23Barajapu&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 💻 FEATURED PROJECTS
+# 🌸 About Me
 
 <table>
 <tr>
+<td width="65%">
 
-<td width="50%">
+### 👨‍💻 Developer Profile
 
-### 🖥 Windows Deep Uninstaller
+I'm a **Web & Mobile Developer / Fullstack Developer** who enjoys building scalable applications, modern web platforms, automation tools, and mobile solutions.
 
-Advanced Windows cleanup utility.
+### 🚀 Current Focus
 
-* PowerShell
-* Win32 API
-* Terminal UI
-* Root Cleaner
+- Fullstack Web Development
+- Mobile Application Development
+- System Architecture
+- API Development
+- UI/UX Implementation
+- Cloud Deployment
+- DevOps & Automation
+
+### 🎯 Interests
+
+- Software Engineering
+- Artificial Intelligence
+- Open Source
+- Mobile Technologies
+- Cyber Security
+- Digital Transformation
+
+### 📍 Location
+
+Indonesia 🇮🇩
 
 </td>
 
-<td width="50%">
+<td width="35%" align="center">
 
-### 🌱 Tobacco Land Management
-
-GIS-based land management platform.
-
-* Laravel
-* Mobile Apps
-* DSS
-* GIS
+<img src="https://github.com/23Barajapu.png" width="250"/>
 
 </td>
-
 </tr>
-
-<tr>
-
-<td>
-
-### 🚗 Biro Jasa Mahkota
-
-Vehicle tax management system.
-
-* Laravel
-* MySQL
-* JavaScript
-
-</td>
-
-<td>
-
-### 💰 Money Management
-
-Personal finance application.
-
-* React Native
-* Expo
-* TypeScript
-
-</td>
-
-</tr>
-
 </table>
 
 ---
 
-# 🎯 CURRENT MISSION
+# ⚡ Tech Stack
 
-```text
-[✓] Build Scalable Applications
-[✓] Master Fullstack Development
-# [✓] Learn AI Engineering
-[✓] Improve DevOps Skills
-# [ ] Launch SaaS Product
-[ ] Reach 1000 GitHub Contributions
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css" />
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,django,express,tailwind" />
+
+### Mobile Development
+
+<img src="https://skillicons.dev/icons?i=react" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" />
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" />
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=23Barajapu&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Barajapu&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=23Barajapu&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=23Barajapu&bg_color=0D1117&color=B388FF&line=7D20DB&point=D1C4E9&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|----------|-------------|
+| 🖥️ Windows Deep Uninstaller & Root Cleaner | Advanced PowerShell-based Windows cleaning & optimization utility |
+| 🌱 Tobacco Land Management Information System | Android-based agricultural management platform |
+| 🛒 Tobacco Marketing Information System | Marketing, SCM & CRM system built with Laravel |
+| 🚗 Biro Jasa Mahkota | Vehicle tax & administration management platform |
+| 💰 Money Management App | Personal finance mobile application using React Native |
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+</div>
+
+```yaml
+# GitHub Action Example
+# Generate contribution snake automatically
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@master
 ```
 
 ---
 
-# 📡 CONNECT
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/23Barajapu">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-23Barajapu-7d20db?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:your-barajapu23@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-7d20db?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-7d20db?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-Coming_Soon-7d20db?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/YouTube-Coming_Soon-7d20db?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/TikTok-Coming_Soon-7d20db?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🎵 NOW PLAYING (OPTIONAL)
-
-Replace USERNAME below with your Spotify username.
-
-```html
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-```
-
----
-
-# ⏱ WAKATIME (OPTIONAL)
-
-```html
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
-```
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/output/github-contribution-grid-snake-dark.svg"/>
+### 💫 "Code. Build. Learn. Repeat."
 
 </div>
 
----
-
-# 🌌 QUOTE OF THE DAY
-
-<div align="center">
-
-> "First, solve the problem. Then, write the code."
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:24243e,50:302b63,100:00F5FF"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,25,26,27,30"/>

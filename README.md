@@ -13,17 +13,17 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=23Barajapu&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=23Barajapu&label=PROFILE+VIEWS&color=7d20db&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/23Barajapu?style=for-the-badge&color=ff69b4" />
+<img src="https://img.shields.io/github/followers/23Barajapu?style=for-the-badge&color=7d20db" />
 
-<img src="https://img.shields.io/github/stars/23Barajapu?style=for-the-badge&color=ff69b4" />
+<img src="https://img.shields.io/github/stars/23Barajapu?style=for-the-badge&color=7d20db" />
 
 </div>
 
 ---
 
-# 🌸 About Me
+# About Me
 
 <table>
 <tr>
@@ -112,9 +112,9 @@ Indonesia 🇮🇩
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=23Barajapu&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats-teal-ten-93.vercel.app/api?username=23Barajapu&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Barajapu&layout=compact&theme=synthwave&hide_border=true" />
+<img height="170" src="https://github-readme-stats-teal-ten-93.vercel.app/api?username=23Barajapu&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github" />
 
 </div>
 
@@ -134,7 +134,7 @@ Indonesia 🇮🇩
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=23Barajapu&bg_color=0d1117&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=23Barajapu&theme=react-dark" />
 
 </div>
 
@@ -188,31 +188,31 @@ jobs:
 <div align="center">
 
 <a href="https://github.com/23Barajapu">
-<img src="https://img.shields.io/badge/GitHub-23Barajapu-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-23Barajapu-7d20db?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact_Me-7d20db?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-LinkedIn-7d20db?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/your-username">
-<img src="https://img.shields.io/badge/Instagram-Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-Instagram-7d20db?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://x.com/your-username">
-<img src="https://img.shields.io/badge/X-Twitter-FF69B4?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-Twitter-7d20db?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://youtube.com/@your-channel">
-<img src="https://img.shields.io/badge/YouTube-YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube-YouTube-7d20db?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <a href="https://tiktok.com/@your-username">
-<img src="https://img.shields.io/badge/TikTok-TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" />
+<img src="https://img.shields.io/badge/TikTok-TikTok-7d20db?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
 </div>

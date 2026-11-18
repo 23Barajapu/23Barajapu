@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="212" viewBox="0 0 580 212" role="img" aria-label="Svara">
+  <title>Svara</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#bb9af7"/><stop offset="1" stop-color="#f7768e"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#bb9af7" stop-opacity=".28"/><stop offset="1" stop-color="#bb9af7" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="c"><rect width="580" height="212" rx="18"/></clipPath>
+    <style>
+      .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif; }
+      .shine { animation: shine 6s ease-in-out infinite; }
+      @keyframes shine { 0% { transform: translateX(-300px); } 40%,100% { transform: translateX(700px); } }
+      .pulse { animation: pulse 2s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes pulse { 0% { transform: scale(1); opacity: .8; } 100% { transform: scale(2.6); opacity: 0; } }
+      .bob { animation: bob 3.5s ease-in-out infinite; }
+      @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+    </style>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="580" height="212" fill="#1a1b27"/>
+    <circle cx="520" cy="20" r="170" fill="url(#glow)">
+      <animate attributeName="r" values="150;185;150" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <rect class="shine" x="0" y="0" width="220" height="212" fill="url(#shine)" transform="skewX(-20)"/>
+    <rect x="0" y="0" width="580" height="4" fill="url(#g)"/>
+    <g class="bob">
+      <rect x="28" y="28" width="52" height="52" rx="14" fill="url(#g)"/>
+      <text x="54" y="64" text-anchor="middle" font-size="26">🎵</text>
+    </g>
+    <text x="96" y="62" class="sans" font-size="26" font-weight="800" fill="#c0caf5">Svara</text>
+    <rect x="462" y="36" width="90" height="26" rx="13" fill="#9ece6a" fill-opacity=".12" stroke="#9ece6a" stroke-opacity=".45"/>
+    <circle class="pulse" cx="477" cy="49" r="4" fill="#9ece6a"/>
+    <circle cx="477" cy="49" r="4" fill="#9ece6a"/>
+    <text x="488" y="53.5" class="sans" font-size="11" font-weight="700" letter-spacing="1" fill="#9ece6a">PUBLIC</text>
+    <text x="28" y="118" class="sans" font-size="16" fill="#a9b1d6">An ad-light music player for the</text><text x="28" y="142" class="sans" font-size="16" fill="#a9b1d6">YouTube Music catalog.</text>
+    <rect x="28" y="160" width="104" height="28" rx="14" fill="#bb9af7" fill-opacity=".12" stroke="#bb9af7" stroke-opacity=".4"/><text x="80.0" y="179" text-anchor="middle" class="sans" font-size="13" font-weight="600" fill="#bb9af7">TypeScript</text><rect x="140" y="160" width="48" height="28" rx="14" fill="#bb9af7" fill-opacity=".12" stroke="#bb9af7" stroke-opacity=".4"/><text x="164.0" y="179" text-anchor="middle" class="sans" font-size="13" font-weight="600" fill="#bb9af7">Web</text><rect x="196" y="160" width="80" height="28" rx="14" fill="#bb9af7" fill-opacity=".12" stroke="#bb9af7" stroke-opacity=".4"/><text x="236.0" y="179" text-anchor="middle" class="sans" font-size="13" font-weight="600" fill="#bb9af7">Windows</text><rect x="284" y="160" width="80" height="28" rx="14" fill="#bb9af7" fill-opacity=".12" stroke="#bb9af7" stroke-opacity=".4"/><text x="324.0" y="179" text-anchor="middle" class="sans" font-size="13" font-weight="600" fill="#bb9af7">Android</text>
+  </g>
+  <rect x=".5" y=".5" width="579" height="211" rx="18" fill="none" stroke="#bb9af7" stroke-opacity=".3"/>
+</svg>

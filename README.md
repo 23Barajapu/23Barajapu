@@ -17,7 +17,7 @@
 
 </div>
 
-## 🧑‍💻 About Me
+<img src="assets/sections/about.svg" width="100%" alt="About Me" />
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAwejdrMW92aThvOGhxN2phamhrcGljZ244cmdjbWVpdWNkdHBtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" height="160" alt="hello" />
 
@@ -48,62 +48,29 @@ I care about the design side as much as the code, and I love making things peopl
 - 💬 Ask me about web dev, Linux, AI tools or making apps look nice
 - 🤝 Open to collabs, especially on open source and developer tools
 
-```ts
-const hiroyuki = {
-  location: "Jakarta, Indonesia",
-  languages: ["TypeScript", "JavaScript", "Java", "Swift"],
-  building: ["Svara", "Nusa", "Pawdrop", "Pomodoro Timer"],
-  learning: ["AI agents", "automation", "software development"],
-  aiSidekicks: ["Claude Code", "OpenCode", "Pi", "ChatGPT", "Gemini"],
-  fuel: "coffee",
-  motto: "Stay curious, keep exploring, never stop building",
-};
-```
+<img src="assets/neofetch.svg" width="100%" alt="neofetch: hiroyuki@jakarta" />
 
 > *Stay curious, keep exploring, and never stop building.* 🚀
 
-## 🚀 Projects
+<img src="assets/sections/projects.svg" width="100%" alt="Projects" />
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Hiroyki/Svara"><img src="assets/projects/svara.svg" width="49%" alt="Svara" /></a>
+  <img src="assets/projects/nusa.svg" width="49%" alt="Nusa" />
+  <img src="assets/projects/pawdrop.svg" width="49%" alt="Pawdrop" />
+  <img src="assets/projects/pomodoro.svg" width="49%" alt="Pomodoro Timer" />
+</p>
 
-<a href="https://github.com/Hiroyki/Svara"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroyki&repo=Svara&theme=tokyonight&hide_border=true&border_radius=10" alt="Svara" /></a>
+<p align="center">
+  <a href="https://github.com/Hiroyki/Svara"><img src="https://img.shields.io/badge/Svara-open%20repo-bb9af7?style=flat-square&logo=github&labelColor=1a1b27" alt="open Svara" /></a>
+  <img src="https://img.shields.io/github/last-commit/Hiroyki/Svara?style=flat-square&label=last%20commit&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
+  <img src="https://img.shields.io/github/languages/code-size/Hiroyki/Svara?style=flat-square&color=9ece6a&labelColor=1a1b27" alt="code size" />
+  <img src="https://img.shields.io/github/stars/Hiroyki/Svara?style=flat-square&color=e0af68&labelColor=1a1b27" alt="stars" />
+</p>
 
-<br />
-<img src="https://img.shields.io/github/last-commit/Hiroyki/Svara?style=flat-square&label=last%20commit&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
-<img src="https://img.shields.io/github/languages/code-size/Hiroyki/Svara?style=flat-square&color=bb9af7&labelColor=1a1b27" alt="code size" />
-<img src="https://img.shields.io/github/stars/Hiroyki/Svara?style=flat-square&color=e0af68&labelColor=1a1b27" alt="stars" />
+<p align="center"><sub>🔒 Nusa, Pawdrop and Pomodoro Timer are private for now. They'll go public once they're ready.</sub></p>
 
-</div>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🏝️ Nusa</h4>
-      Dynamic Island for MacBook, Windows and Linux.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-      <img src="https://img.shields.io/badge/status-in%20progress-7aa2f7?style=flat-square" alt="in progress" />
-    </td>
-    <td width="33%" valign="top">
-      <h4>🐾 Pawdrop</h4>
-      Send files to devices nearby. Installers for Windows, macOS and Linux.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Cross--platform-555?style=flat-square&logo=electron&logoColor=white" alt="Cross-platform" />
-      <img src="https://img.shields.io/badge/status-in%20progress-7aa2f7?style=flat-square" alt="in progress" />
-    </td>
-    <td width="33%" valign="top">
-      <h4>🍅 Pomodoro Timer</h4>
-      Lo-fi pomodoro timer with a pixel-art focus room.
-      <br /><br />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/status-in%20progress-7aa2f7?style=flat-square" alt="in progress" />
-    </td>
-  </tr>
-</table>
-
-<sub>🔒 Nusa, Pawdrop and Pomodoro Timer are private for now. They'll go public once they're ready.</sub>
-
-## 🛠️ Tech Stack
+<img src="assets/sections/stack.svg" width="100%" alt="Tech Stack" />
 
 **Languages**
 
@@ -121,7 +88,7 @@ const hiroyuki = {
 
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au&perline=12" alt="design tools" />
 
-## 🤖 AI Toolbox
+<img src="assets/sections/ai.svg" width="100%" alt="AI Toolbox" />
 
 I use AI every day to learn faster, ship faster and break things in more interesting ways.
 
@@ -150,7 +117,7 @@ I use AI every day to learn faster, ship faster and break things in more interes
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
-## 📊 GitHub Stats
+<img src="assets/sections/stats.svg" width="100%" alt="GitHub Stats" />
 
 <div align="center">
 
@@ -164,7 +131,7 @@ I use AI every day to learn faster, ship faster and break things in more interes
 
 </div>
 
-## 🏙️ 3D Contributions
+<img src="assets/sections/city.svg" width="100%" alt="3D Contributions" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-night-rainbow.svg" />
@@ -172,7 +139,7 @@ I use AI every day to learn faster, ship faster and break things in more interes
   <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-season-animate.svg" />
 </picture>
 
-## 🎮 Contribution Arcade
+<img src="assets/sections/arcade.svg" width="100%" alt="Contribution Arcade" />
 
 My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refreshed every day.
 
@@ -200,7 +167,7 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
   <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/breakout-contribution-graph.svg" />
 </picture>
 
-## ☕ Break Time
+<img src="assets/sections/break.svg" width="100%" alt="Break Time" />
 
 <div align="center">
 

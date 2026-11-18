@@ -170,7 +170,7 @@
       <circle cx="850" cy="43" r="4.5" fill="#9ece6a"/>
       <text x="985" y="48" text-anchor="middle" class="mono" font-size="12" fill="#565f89">~/svara — agent</text>
       <g class="mono" font-size="14">
-        <text class="l1" x="816" y="84"><tspan fill="#bb9af7">❯ </tspan><tspan fill="#c0caf5">claude "polish the player UI"</tspan></text>
+        <text class="l1" x="816" y="84"><tspan fill="#bb9af7">❯ </tspan><tspan fill="#c0caf5">opencode "polish the player UI"</tspan></text>
         <text class="l2" x="816" y="110"><tspan fill="#7aa2f7">● </tspan><tspan fill="#a9b1d6">Reading src/player.tsx</tspan></text>
         <text class="l3" x="816" y="136"><tspan fill="#e0af68">● </tspan><tspan fill="#a9b1d6">Editing 3 files</tspan><tspan fill="#9ece6a"> +128 </tspan><tspan fill="#f7768e">-42</tspan></text>
         <text class="l4" x="816" y="162"><tspan fill="#9ece6a">✓ </tspan><tspan fill="#9ece6a">Build passed · shipped 🚀</tspan></text>

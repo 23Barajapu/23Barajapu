@@ -1,13 +1,16 @@
-<img src="assets/header.svg?v=2" width="100%" alt="Hiroyuki Takayumi" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/header.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/header.svg?v=3" width="100%" alt="Hiroyuki Takayumi" />
+</picture>
 
 <div align="center">
 
-<a href="https://github.com/Hiroyki"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Halo!+Hello!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+%F0%9F%91%8B;Turning+coffee+into+code+%E2%98%95;Linux+%E2%80%A2+CLI+tools+%E2%80%A2+Modern+web;Exploring+AI+agents+%26+automation+%F0%9F%A4%96;Shipping+with+Claude+Code+%26+OpenCode+%E2%9A%A1;Based+in+Jakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
+<a href="https://github.com/Hiroyki"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Halo!+Hello!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+%F0%9F%91%8B;Turning+coffee+into+code+%E2%98%95;Linux+%E2%80%A2+CLI+tools+%E2%80%A2+Modern+web;Exploring+AI+agents+%26+automation+%F0%9F%A4%96;Shipping+with+OpenCode+%26+Pi+%E2%9A%A1;Based+in+Jakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
 
-<a href="https://www.linkedin.com/in/fikri-rahmatulloh/"><img src="assets/social/linkedin.svg?v=2" width="200" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/faquloh"><img src="assets/social/instagram.svg?v=2" width="200" alt="Instagram" /></a>
-<a href="https://x.com/quraishlo"><img src="assets/social/x.svg?v=2" width="200" alt="X" /></a>
-<a href="https://wa.me/6285133162432"><img src="assets/social/whatsapp.svg?v=2" width="200" alt="WhatsApp" /></a>
+<a href="https://www.linkedin.com/in/fikri-rahmatulloh/"><img src="assets/social/linkedin.svg?v=2" width="170" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/faquloh"><img src="assets/social/instagram.svg?v=2" width="170" alt="Instagram" /></a>
+<a href="https://x.com/quraishlo"><img src="assets/social/x.svg?v=2" width="170" alt="X" /></a>
+<a href="https://wa.me/6285133162432"><img src="assets/social/whatsapp.svg?v=2" width="170" alt="WhatsApp" /></a>
 
 <a href="https://github.com/Hiroyki?tab=followers"><img src="https://img.shields.io/github/followers/Hiroyki?style=for-the-badge&logo=github&label=Followers&color=7aa2f7&labelColor=1a1b27" alt="followers" /></a>
 <a href="https://github.com/Hiroyki?tab=repositories"><img src="https://img.shields.io/github/stars/Hiroyki?style=for-the-badge&logo=github&label=Stars&color=e0af68&labelColor=1a1b27&affiliations=OWNER" alt="stars" /></a>
@@ -17,7 +20,10 @@
 
 </div>
 
-<img src="assets/sections/about.svg?v=2" width="100%" alt="About Me" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-about.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/about.svg?v=3" width="100%" alt="About Me" />
+</picture>
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAwejdrMW92aThvOGhxN2phamhrcGljZ244cmdjbWVpdWNkdHBtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" height="160" alt="hello" />
 
@@ -34,7 +40,7 @@ I care about the design side as much as the code, and I love making things peopl
 
 **🧠 What I'm into**
 
-- 🤖 AI agents, agentic workflows and automation, usually with Claude Code, OpenCode or Pi in the terminal
+- 🤖 AI agents, agentic workflows and automation, usually with OpenCode or Pi in the terminal
 - 🐧 Linux and the command line. If it can be a CLI, it probably should be
 - 🛠️ Open source, developer tools and anything that saves me a few keystrokes
 - 🎨 Design and video too: Photoshop, Illustrator, Premiere Pro and After Effects
@@ -48,18 +54,24 @@ I care about the design side as much as the code, and I love making things peopl
 - 💬 Ask me about web dev, Linux, AI tools or making apps look nice
 - 🤝 Open to collabs, especially on open source and developer tools
 
-<img src="assets/neofetch.svg?v=2" width="100%" alt="neofetch: hiroyuki@jakarta" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/neofetch.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/neofetch.svg?v=3" width="100%" alt="neofetch: hiroyuki@jakarta" />
+</picture>
 
 > *Stay curious, keep exploring, and never stop building.* 🚀
 
-<img src="assets/sections/projects.svg?v=2" width="100%" alt="Projects" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-projects.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/projects.svg?v=3" width="100%" alt="Projects" />
+</picture>
 
-<p align="center">
-  <a href="https://github.com/Hiroyki/Svara"><img src="assets/projects/svara.svg?v=2" width="49%" alt="Svara" /></a>
-  <img src="assets/projects/nusa.svg?v=2" width="49%" alt="Nusa" />
-  <img src="assets/projects/pawdrop.svg?v=2" width="49%" alt="Pawdrop" />
-  <img src="assets/projects/pomodoro.svg?v=2" width="49%" alt="Pomodoro Timer" />
-</p>
+<a href="https://github.com/Hiroyki/Svara">
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/projects.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/projects-grid.svg?v=3" width="100%" alt="Projects: Svara, Nusa, Pawdrop, Pomodoro Timer" />
+</picture>
+</a>
 
 <p align="center">
   <a href="https://github.com/Hiroyki/Svara"><img src="https://img.shields.io/badge/Svara-open%20repo-bb9af7?style=flat-square&logo=github&labelColor=1a1b27" alt="open Svara" /></a>
@@ -70,13 +82,25 @@ I care about the design side as much as the code, and I love making things peopl
 
 <p align="center"><sub>🔒 Nusa, Pawdrop and Pomodoro Timer are private for now. They'll go public once they're ready.</sub></p>
 
-<img src="assets/sections/journey.svg?v=2" width="100%" alt="Journey" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-journey.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/journey.svg?v=3" width="100%" alt="Journey" />
+</picture>
 
-<img src="assets/timeline.svg?v=2" width="100%" alt="Journey timeline" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/timeline.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/timeline.svg?v=3" width="100%" alt="Journey timeline" />
+</picture>
 
-<img src="assets/sections/stack.svg?v=2" width="100%" alt="Tech Stack" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-stack.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/stack.svg?v=3" width="100%" alt="Tech Stack" />
+</picture>
 
-<img src="assets/marquee.svg?v=2" width="100%" alt="Tech and AI tools" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/marquee.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/marquee.svg?v=3" width="100%" alt="Tech and AI tools" />
+</picture>
 
 **Languages**
 
@@ -94,7 +118,10 @@ I care about the design side as much as the code, and I love making things peopl
 
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au&perline=12" alt="design tools" />
 
-<img src="assets/sections/ai.svg?v=2" width="100%" alt="AI Toolbox" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-ai.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/ai.svg?v=3" width="100%" alt="AI Toolbox" />
+</picture>
 
 I use AI every day to learn faster, ship faster and break things in more interesting ways.
 
@@ -102,7 +129,6 @@ I use AI every day to learn faster, ship faster and break things in more interes
 
 <p>
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk9wZW5BSTwvdGl0bGU%2BPHBhdGggZD0iTTkuMjA1IDguNjU4di0yLjI2YzAtLjE5LjA3Mi0uMzMzLjIzOC0uNDI4bDQuNTQzLTIuNjE2Yy42MTktLjM1NyAxLjM1Ni0uNTIzIDIuMTE3LS41MjMgMi44NTQgMCA0LjY2MiAyLjIxMiA0LjY2MiA0LjU2NiAwIC4xNjcgMCAuMzU3LS4wMjQuNTQ3bC00LjcxLTIuNzU5YS43OTcuNzk3IDAgMDAtLjg1NiAwbC01Ljk3IDMuNDczem0xMC42MDkgOC44VjEyLjA2YzAtLjMzMy0uMTQzLS41Ny0uNDI5LS43MzdsLTUuOTctMy40NzMgMS45NS0xLjExOGEuNDMzLjQzMyAwIDAxLjQ3NiAwbDQuNTQzIDIuNjE3YzEuMzA5Ljc2IDIuMTg5IDIuMzc4IDIuMTg5IDMuOTQ4IDAgMS44MDgtMS4wNyAzLjQ3My0yLjc2IDQuMTYzek03LjgwMiAxMi43MDNsLTEuOTUtMS4xNDJjLS4xNjctLjA5NS0uMjM5LS4yMzgtLjIzOS0uNDI4VjUuODk5YzAtMi41NDUgMS45NS00LjQ3MiA0LjU5MS00LjQ3MiAxIDAgMS45MjcuMzMzIDIuNzEyLjkyOEw4LjIzIDUuMDY3Yy0uMjg1LjE2Ni0uNDI4LjQwNC0uNDI4LjczN3Y2Ljg5OHpNMTIgMTUuMTI4bC0yLjc5NS0xLjU3di0zLjMzTDEyIDguNjU4bDIuNzk1IDEuNTd2My4zM0wxMiAxNS4xMjh6bTEuNzk2IDcuMjNjLTEgMC0xLjkyNy0uMzMyLTIuNzEyLS45MjdsNC42ODYtMi43MTJjLjI4NS0uMTY2LjQyOC0uNDA0LjQyOC0uNzM3di02Ljg5OGwxLjk3NCAxLjE0MmMuMTY3LjA5NS4yMzguMjM4LjIzOC40Mjh2NS4yMzNjMCAyLjU0NS0xLjk3NCA0LjQ3Mi00LjYxNCA0LjQ3MnptLTUuNjM3LTUuMzAzbC00LjU0NC0yLjYxN2MtMS4zMDgtLjc2MS0yLjE4OC0yLjM3OC0yLjE4OC0zLjk0OEE0LjQ4MiA0LjQ4MiAwIDAxNC4yMSA2LjMyN3Y1LjQyM2MwIC4zMzMuMTQzLjU3MS40MjguNzM4bDUuOTQ3IDMuNDQ5LTEuOTUgMS4xMThhLjQzMi40MzIgMCAwMS0uNDc2IDB6bS0uMjYyIDMuOWMtMi42ODggMC00LjY2Mi0yLjAyMS00LjY2Mi00LjUxOSAwLS4xOS4wMjQtLjM4LjA0Ny0uNTdsNC42ODYgMi43MWMuMjg2LjE2Ny41NzEuMTY3Ljg1NiAwbDUuOTctMy40NDh2Mi4yNmMwIC4xOS0uMDcuMzMzLS4yMzcuNDI4bC00LjU0MyAyLjYxNmMtLjYxOS4zNTctMS4zNTYuNTIzLTIuMTE3LjUyM3ptNS44OTkgMi44M2E1Ljk0NyA1Ljk0NyAwIDAwNS44MjctNC43NTZDMjIuMjg3IDE4LjMzOSAyNCAxNS44NCAyNCAxMy4yOTZjMC0xLjY2NS0uNzEzLTMuMjgyLTEuOTk4LTQuNDQ4LjExOS0uNS4xOS0uOTk5LjE5LTEuNDk4IDAtMy40MDEtMi43NTktNS45NDctNS45NDYtNS45NDctLjY0MiAwLTEuMjYuMDk1LTEuODguMzFBNS45NjIgNS45NjIgMCAwMDEwLjIwNSAwYTUuOTQ3IDUuOTQ3IDAgMDAtNS44MjcgNC43NTdDMS43MTMgNS40NDcgMCA3Ljk0NSAwIDEwLjQ5YzAgMS42NjYuNzEzIDMuMjgzIDEuOTk4IDQuNDQ4LS4xMTkuNS0uMTkgMS0uMTkgMS40OTkgMCAzLjQwMSAyLjc1OSA1Ljk0NiA1Ljk0NiA1Ljk0Ni42NDIgMCAxLjI2LS4wOTUgMS44OC0uMzA5YTUuOTYgNS45NiAwIDAwNC4xNjIgMS43MTN6Ij48L3BhdGg%2BPC9zdmc%2B&logoColor=white" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkNsYXVkZTwvdGl0bGU%2BPHBhdGggZD0iTTQuNzA5IDE1Ljk1NWw0LjcyLTIuNjQ3LjA4LS4yMy0uMDgtLjEyOEg5LjJsLS43OS0uMDQ4LTIuNjk4LS4wNzMtMi4zMzktLjA5Ny0yLjI2Ni0uMTIyLS41NzEtLjEyMUwwIDExLjc4NGwuMDU1LS4zNTIuNDgtLjMyMS42ODYuMDYgMS41Mi4xMDMgMi4yNzguMTU4IDEuNjUyLjA5NyAyLjQ0OS4yNTVoLjM4OWwuMDU1LS4xNTctLjEzNC0uMDk4LS4xMDMtLjA5Ny0yLjM1OC0xLjU5Ni0yLjU1Mi0xLjY4OC0xLjMzNi0uOTcyLS43MjQtLjQ5MS0uMzY0LS40NjItLjE1OC0xLjAwOC42NTYtLjcyMi44ODEuMDYuMjI1LjA2MS44OTMuNjg2IDEuOTA4IDEuNDc2IDIuNDkxIDEuODMzLjM2NS4zMDQuMTQ1LS4xMDMuMDE5LS4wNzMtLjE2NC0uMjc0LTEuMzU1LTIuNDQ2LTEuNDQ2LTIuNDktLjY0NC0xLjAzMi0uMTctLjYxOWEyLjk3IDIuOTcgMCAwMS0uMTA0LS43MjlMNi4yODMuMTM0IDYuNjk2IDBsLjk5Ni4xMzQuNDIuMzY0LjYyIDEuNDE0IDEuMDAyIDIuMjI5IDEuNTU1IDMuMDMuNDU2Ljg5OC4yNDMuODMyLjA5MS4yNTVoLjE1OFY5LjAxbC4xMjgtMS43MDYuMjM3LTIuMDk1LjIzLTIuNjk1LjA4LS43Ni4zNzYtLjkxLjc0Ny0uNDkyLjU4NC4yOC40OC42ODUtLjA2Ny40NDQtLjI4NiAxLjg1MS0uNTU5IDIuOTAzLS4zNjQgMS45NDJoLjIxMmwuMjQzLS4yNDIuOTg1LTEuMzA2IDEuNjUyLTIuMDY0LjczLS44Mi44NS0uOTA0LjU0Ny0uNDMxaDEuMDMzbC43NiAxLjEyOS0uMzQgMS4xNjYtMS4wNjQgMS4zNDctLjg4MSAxLjE0Mi0xLjI2NCAxLjctLjc5IDEuMzYuMDczLjExLjE4OC0uMDIgMi44NTYtLjYwNiAxLjU0My0uMjggMS44NDEtLjMxNS44MzMuMzg4LjA5MS4zOTUtLjMyOC44MDctMS45NjkuNDg2LTIuMzA5LjQ2Mi0zLjQzOS44MTMtLjA0Mi4wMy4wNDkuMDYxIDEuNTQ5LjE0Ni42NjIuMDM2aDEuNjIybDMuMDIuMjI1Ljc5LjUyMi40NzQuNjM4LS4wNzkuNDg1LTEuMjE1LjYyLTEuNjQtLjM4OS0zLjgyOS0uOTEtMS4zMTItLjMyOWgtLjE4MnYuMTFsMS4wOTMgMS4wNjggMi4wMDYgMS44MSAyLjUwOSAyLjMzLjEyNy41NzgtLjMyMi40NTUtLjM0LS4wNDktMi4yMDUtMS42NTctLjg1MS0uNzQ3LTEuOTI2LTEuNjJoLS4xMjh2LjE3bC40NDQuNjQ5IDIuMzQ1IDMuNTIxLjEyMiAxLjA4LS4xNy4zNTMtLjYwOC4yMTMtLjY2OC0uMTIyLTEuMzc0LTEuOTI1LTEuNDE1LTIuMTY3LTEuMTQzLTEuOTQzLS4xNC4wOC0uNjc0IDcuMjU0LS4zMTYuMzctLjcyOS4yOC0uNjA3LS40NjEtLjMyMi0uNzQ3LjMyMi0xLjQ3Ni4zODktMS45MjQuMzE1LTEuNTMuMjg2LTEuOS4xNy0uNjMyLS4wMTItLjA0Mi0uMTQuMDE4LTEuNDM0IDEuOTY3LTIuMTggMi45NDUtMS43MjYgMS44NDUtLjQxNC4xNjQtLjcxNy0uMzcuMDY3LS42NjIuNDAxLS41ODkgMi4zODgtMy4wMzYgMS40NC0xLjg4Mi45My0xLjA4Ni0uMDA2LS4xNThoLS4wNTVMNC4xMzIgMTguNTZsLTEuMTMuMTQ2LS40ODctLjQ1Ni4wNjEtLjc0Ni4yMzEtLjI0MyAxLjkwOC0xLjMxMi0uMDA2LjAwNnoiPjwvcGF0aD48L3N2Zz4%3D&logoColor=white" alt="Claude" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkdlbWluaTwvdGl0bGU%2BPHBhdGggZD0iTTIwLjYxNiAxMC44MzVhMTQuMTQ3IDE0LjE0NyAwIDAxLTQuNDUtMy4wMDEgMTQuMTExIDE0LjExMSAwIDAxLTMuNjc4LTYuNDUyLjUwMy41MDMgMCAwMC0uOTc1IDAgMTQuMTM0IDE0LjEzNCAwIDAxLTMuNjc5IDYuNDUyIDE0LjE1NSAxNC4xNTUgMCAwMS00LjQ1IDMuMDAxYy0uNjUuMjgtMS4zMTguNTA1LTIuMDAyLjY3OGEuNTAyLjUwMiAwIDAwMCAuOTc1Yy42ODQuMTcyIDEuMzUuMzk3IDIuMDAyLjY3N2ExNC4xNDcgMTQuMTQ3IDAgMDE0LjQ1IDMuMDAxIDE0LjExMiAxNC4xMTIgMCAwMTMuNjc5IDYuNDUzLjUwMi41MDIgMCAwMC45NzUgMGMuMTcyLS42ODUuMzk3LTEuMzUxLjY3Ny0yLjAwM2ExNC4xNDUgMTQuMTQ1IDAgMDEzLjAwMS00LjQ1IDE0LjExMyAxNC4xMTMgMCAwMTYuNDUzLTMuNjc4LjUwMy41MDMgMCAwMDAtLjk3NSAxMy4yNDUgMTMuMjQ1IDAgMDEtMi4wMDMtLjY3OHoiPjwvcGF0aD48L3N2Zz4%3D&logoColor=white" alt="Gemini" />
 <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkdyb2s8L3RpdGxlPjxwYXRoIGQ9Ik05LjI3IDE1LjI5bDcuOTc4LTUuODk3Yy4zOTEtLjI5Ljk1LS4xNzcgMS4xMzcuMjcyLjk4IDIuMzY5LjU0MiA1LjIxNS0xLjQxIDcuMTY5LTEuOTUxIDEuOTU0LTQuNjY3IDIuMzgyLTcuMTQ5IDEuNDA2bC0yLjcxMSAxLjI1N2MzLjg4OSAyLjY2MSA4LjYxMSAyLjAwMyAxMS41NjItLjk1MyAyLjM0MS0yLjM0NCAzLjA2Ni01LjUzOSAyLjM4OC04LjQybC4wMDYuMDA3Yy0uOTgzLTQuMjMyLjI0Mi01LjkyNCAyLjc1LTkuMzgzLjA2LS4wODIuMTItLjE2NC4xNzktLjI0OGwtMy4zMDEgMy4zMDV2LS4wMUw5LjI2NyAxNS4yOTJNNy42MjMgMTYuNzIzYy0yLjc5Mi0yLjY3LTIuMzEtNi44MDEuMDcxLTkuMTg0IDEuNzYxLTEuNzYzIDQuNjQ3LTIuNDgzIDcuMTY2LTEuNDI1bDIuNzA1LTEuMjVhNy44MDggNy44MDggMCAwMC0xLjgyOS0xQTguOTc1IDguOTc1IDAgMDA1Ljk4NCA1LjgzYy0yLjUzMyAyLjUzNi0zLjMzIDYuNDM2LTEuOTYyIDkuNzY0IDEuMDIyIDIuNDg3LS42NTMgNC4yNDYtMi4zNCA2LjAyMi0uNTk5LjYzLTEuMTk5IDEuMjU5LTEuNjgyIDEuOTI1bDcuNjItNi44MTUiPjwvcGF0aD48L3N2Zz4%3D&logoColor=white" alt="Grok" />
 <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlBlcnBsZXhpdHk8L3RpdGxlPjxwYXRoIGQ9Ik0xOS43ODUgMHY3LjI3MkgyMi41VjE3LjYyaC0yLjkzNVYyNGwtNy4wMzctNi4xOTR2Ni4xNDVoLTEuMDkxdi02LjE1Mkw0LjM5MiAyNHYtNi40NjVIMS41VjcuMTg4aDIuODg0VjBsNy4wNTMgNi40OTRWLjE5aDEuMDl2Ni40OUwxOS43ODYgMHptLTcuMjU3IDkuMDQ0djcuMzE5bDUuOTQ2IDUuMjM0VjE0LjQ0bC01Ljk0Ni01LjM5N3ptLTEuMDk5LS4wOGwtNS45NDYgNS4zOTh2Ny4yMzVsNS45NDYtNS4yMzRWOC45NjV6bTguMTM2IDcuNThoMS44NDRWOC4zNDlIMTMuNDZsNi4xMDUgNS41NHYyLjY1NXptLTguOTgyLTguMjhIMi41OXY4LjE5NWgxLjh2LTIuNTc2bDYuMTkyLTUuNjJ6TTUuNDc1IDIuNDc2djQuNzFoNS4xMTVsLTUuMTE1LTQuNzF6bTEzLjIxOSAwbC01LjExNSA0LjcxaDUuMTE1di00LjcxeiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D&logoColor=white" alt="Perplexity" />
@@ -112,7 +138,6 @@ I use AI every day to learn faster, ship faster and break things in more interes
 **Coding Agents & Dev Tools**
 
 <p>
-<img src="https://img.shields.io/badge/Claude%20Code-C15F3C?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkNsYXVkZSBDb2RlPC90aXRsZT48cGF0aCBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMC45OTggMTAuOTQ5SDI0djMuMTAyaC0zdjMuMDI4aC0xLjQ4N1YyMEgxOHYtMi45MjFoLTEuNDg3VjIwSDE1di0yLjkyMUg5VjIwSDcuNDg4di0yLjkyMUg2VjIwSDQuNDg3di0yLjkyMUgzVjE0LjA1SDBWMTAuOTVoM1Y1aDE3Ljk5OHY1Ljk0OXpNNiAxMC45NDloMS40ODhWOC4xMDJINnYyLjg0N3ptMTAuNTEgMEgxOFY4LjEwMmgtMS40OXYyLjg0N3oiPjwvcGF0aD48L3N2Zz4%3D&logoColor=white" alt="Claude Code" />
 <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkNvZGV4PC90aXRsZT48cGF0aCBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04LjA4Ni40NTdhNi4xMDUgNi4xMDUgMCAwMTMuMDQ2LS40MTVjMS4zMzMuMTUzIDIuNTIxLjcyIDMuNTY0IDEuN2EuMTE3LjExNyAwIDAwLjEwNy4wMjljMS40MDgtLjM0NiAyLjc2Mi0uMjI0IDQuMDYxLjM2NmwuMDYzLjAzLjE1NC4wNzZjMS4zNTcuNzAzIDIuMzMgMS43NyAyLjkxOCAzLjE5OC4yNzguNjc5LjQxOCAxLjM4OC40MjEgMi4xMjZhNS42NTUgNS42NTUgMCAwMS0uMTggMS42MzEuMTY3LjE2NyAwIDAwLjA0LjE1NSA1Ljk4MiA1Ljk4MiAwIDAxMS41NzggMi44OTFjLjM4NSAxLjkwMS0uMDEgMy42MTUtMS4xODMgNS4xNGwtLjE4Mi4yMmE2LjA2MyA2LjA2MyAwIDAxLTIuOTM0IDEuODUxLjE2Mi4xNjIgMCAwMC0uMTA4LjEwMmMtLjI1NS43MzYtLjUxMSAxLjM2NC0uOTg3IDEuOTkyLTEuMTk5IDEuNTgyLTIuOTYyIDIuNDYyLTQuOTQ4IDIuNDUxLTEuNTgzLS4wMDgtMi45ODYtLjU4Ny00LjIxLTEuNzM2YS4xNDUuMTQ1IDAgMDAtLjE0LS4wMzJjLS41MTguMTY3LTEuMDQuMTkxLTEuNjA0LjE4NWE1LjkyNCA1LjkyNCAwIDAxLTIuNTk1LS42MjIgNi4wNTggNi4wNTggMCAwMS0yLjE0Ni0xLjc4MWMtLjIwMy0uMjY5LS40MDQtLjUyMi0uNTUxLS44MjFhNy43NCA3Ljc0IDAgMDEtLjQ5NS0xLjI4MyA2LjExIDYuMTEgMCAwMS0uMDE3LTMuMDY0LjE2Ni4xNjYgMCAwMC4wMDgtLjA3NC4xMTUuMTE1IDAgMDAtLjAzNy0uMDY0IDUuOTU4IDUuOTU4IDAgMDEtMS4zOC0yLjIwMiA1LjE5NiA1LjE5NiAwIDAxLS4zMzMtMS41ODkgNi45MTUgNi45MTUgMCAwMS4xODgtMi4xMzJjLjQ1LTEuNDg0IDEuMzA5LTIuNjQ4IDIuNTc3LTMuNDkzLjI4Mi0uMTg4LjU1LS4zMzQuODAyLS40MzguMjg2LS4xMi41NzMtLjIyLjg2MS0uMzA0YS4xMjkuMTI5IDAgMDAuMDg3LS4wODdBNi4wMTYgNi4wMTYgMCAwMTUuNjM1IDIuMzFDNi4zMTUgMS40NjQgNy4xMzIuODQ2IDguMDg2LjQ1N3ptLS44MDQgNy44NWEuODQ4Ljg0OCAwIDAwLTEuNDczLjg0MmwxLjY5NCAyLjk2NS0xLjY4OCAyLjg0OGEuODQ5Ljg0OSAwIDAwMS40Ni44NjRsMS45NC0zLjI3MmEuODQ5Ljg0OSAwIDAwLjAwNy0uODU0bC0xLjk0LTMuMzkzem01LjQ0NiA2LjI0YS44NDkuODQ5IDAgMDAwIDEuNjk1aDQuODQ4YS44NDkuODQ5IDAgMDAwLTEuNjk2aC00Ljg0OHoiPjwvcGF0aD48L3N2Zz4%3D&logoColor=white" alt="Codex" />
 <img src="https://img.shields.io/badge/Gemini%20CLI-8E75B2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkdlbWluaSBDTEk8L3RpdGxlPjxwYXRoIGQ9Ik0xNi43OTMgMTAuMzU4djMuODY3TDcuMjM2IDE4Ljgydi0yLjhsNy43NTEtMy43MjgtNy43NS0zLjcyOFY1Ljc2M2w5LjU1NiA0LjU5NXoiPjwvcGF0aD48cGF0aCBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xOS42MDggMEE0LjM5MiA0LjM5MiAwIDAxMjQgNC4zOTJ2MTUuMjE2QTQuMzkyIDQuMzkyIDAgMDExOS42MDggMjRINC4zOTJBNC4zOTIgNC4zOTIgMCAwMTAgMTkuNjA4VjQuMzkyQTQuMzkyIDQuMzkyIDAgMDE0LjM5MiAwaDE1LjIxNnpNNC4yNiAxLjQ0NEEyLjgxNiAyLjgxNiAwIDAwMS40NDQgNC4yNnYxNS40OGEyLjgxNiAyLjgxNiAwIDAwMi44MTYgMi44MTZoMTUuNDhhMi44MTYgMi44MTYgMCAwMDIuODE2LTIuODE2VjQuMjZhMi44MTYgMi44MTYgMCAwMC0yLjgxNi0yLjgxNkg0LjI2eiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D&logoColor=white" alt="Gemini CLI" />
 <img src="https://img.shields.io/badge/OpenCode-211E1E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPm9wZW5jb2RlPC90aXRsZT48cGF0aCBkPSJNMTYgNkg4djEyaDhWNnptNCAxNkg0VjJoMTZ2MjB6Ij48L3BhdGg%2BPC9zdmc%2B&logoColor=white" alt="OpenCode" />
@@ -123,21 +148,27 @@ I use AI every day to learn faster, ship faster and break things in more interes
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
-<img src="assets/sections/stats.svg?v=2" width="100%" alt="GitHub Stats" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-stats.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/stats.svg?v=3" width="100%" alt="GitHub Stats" />
+</picture>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/main/profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="stats" />
-<img src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/main/profile-summary-card-output/tokyonight/4-productive-time.svg" height="170" alt="productive time" />
+<img src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+<img src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
 
 
-<img src="https://streak-stats.demolab.com?user=Hiroyki&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Hiroyki&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiroyki&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" alt="activity graph" />
 
 </div>
 
-<img src="assets/sections/city.svg?v=2" width="100%" alt="3D Contributions" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-city.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/city.svg?v=3" width="100%" alt="3D Contributions" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-night-rainbow.svg" />
@@ -145,7 +176,10 @@ I use AI every day to learn faster, ship faster and break things in more interes
   <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-season-animate.svg" />
 </picture>
 
-<img src="assets/sections/arcade.svg?v=2" width="100%" alt="Contribution Arcade" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-arcade.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/arcade.svg?v=3" width="100%" alt="Contribution Arcade" />
+</picture>
 
 My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refreshed every day.
 
@@ -173,7 +207,10 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
   <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/breakout-contribution-graph.svg" />
 </picture>
 
-<img src="assets/sections/guestbook.svg?v=2" width="100%" alt="Guestbook" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-guestbook.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/guestbook.svg?v=3" width="100%" alt="Guestbook" />
+</picture>
 
 <p align="center">Drop a hi! Your message shows up here automatically. 👇</p>
 
@@ -187,7 +224,10 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
 | <img src="https://github.com/Hiroyki.png?size=48" width="28" alt="Hiroyki" /> | [Hiroyki](https://github.com/Hiroyki) | First entry Welcome to my little corner of GitHub ✨ Leave a hi below 👇 | 2026-11-18 |
 <!-- GUESTBOOK:END -->
 
-<img src="assets/sections/break.svg?v=2" width="100%" alt="Break Time" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-break.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/break.svg?v=3" width="100%" alt="Break Time" />
+</picture>
 
 <div align="center">
 
@@ -205,4 +245,7 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
 
 </div>
 
-<img src="assets/footer.svg?v=2" width="100%" alt="See you around" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/footer.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/footer.svg?v=3" width="100%" alt="See you around" />
+</picture>

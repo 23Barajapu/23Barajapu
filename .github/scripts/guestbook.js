@@ -13,7 +13,7 @@ function clean(body) {
     .replace(/_No response_/g, "")
     .replace(/https?:\/\/\S+/gi, "🔗")
     .replace(/www\.\S+/gi, "🔗")
-    .replace(/[<>\[\]()|*_`~#\\!{}=]/g, "")
+    .replace(/[<>\[\]()|*_`~#\\{}=]/g, "")
     .replace(/@/g, "＠")
     .replace(/\s+/g, " ")
     .trim();

@@ -62,6 +62,11 @@ I care about the design side as much as the code, and I love making things peopl
 > *Stay curious, keep exploring, and never stop building.* 🚀
 
 <picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/divider.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/divider.svg?v=3" width="100%" alt="" />
+</picture>
+
+<picture>
   <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-projects.svg?v=3" />
   <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/projects.svg?v=3" width="100%" alt="Projects" />
 </picture>
@@ -93,6 +98,11 @@ I care about the design side as much as the code, and I love making things peopl
 </picture>
 
 <picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/divider.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/divider.svg?v=3" width="100%" alt="" />
+</picture>
+
+<picture>
   <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-stack.svg?v=3" />
   <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/stack.svg?v=3" width="100%" alt="Tech Stack" />
 </picture>
@@ -102,51 +112,25 @@ I care about the design side as much as the code, and I love making things peopl
   <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/marquee.svg?v=3" width="100%" alt="Tech and AI tools" />
 </picture>
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,java,swift&perline=12" alt="languages" />
-
-**Frameworks & Runtime**
-
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,nestjs,adonis,bootstrap,jquery&perline=12" alt="frameworks" />
-
-**Tools & Infra**
-
-<img src="https://skillicons.dev/icons?i=linux,git,docker,nginx,mongodb,vercel,netlify,vscode,androidstudio&perline=12" alt="tools" />
-
-**Design & Video**
-
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au&perline=12" alt="design tools" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/stack.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/stack.svg?v=3" width="100%" alt="Tech stack: languages, frameworks, tools, design" />
+</picture>
 
 <picture>
   <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-ai.svg?v=3" />
   <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/ai.svg?v=3" width="100%" alt="AI Toolbox" />
 </picture>
 
-I use AI every day to learn faster, ship faster and break things in more interesting ways.
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/ai-orbit.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/ai-orbit.svg?v=3" width="100%" alt="AI toolbox: ChatGPT, Gemini, Grok, Perplexity, DeepSeek, OpenCode, Pi, Codex, Gemini CLI, GitHub Copilot, Cursor, Ollama, Hugging Face" />
+</picture>
 
-**Assistants**
-
-<p>
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk9wZW5BSTwvdGl0bGU%2BPHBhdGggZD0iTTkuMjA1IDguNjU4di0yLjI2YzAtLjE5LjA3Mi0uMzMzLjIzOC0uNDI4bDQuNTQzLTIuNjE2Yy42MTktLjM1NyAxLjM1Ni0uNTIzIDIuMTE3LS41MjMgMi44NTQgMCA0LjY2MiAyLjIxMiA0LjY2MiA0LjU2NiAwIC4xNjcgMCAuMzU3LS4wMjQuNTQ3bC00LjcxLTIuNzU5YS43OTcuNzk3IDAgMDAtLjg1NiAwbC01Ljk3IDMuNDczem0xMC42MDkgOC44VjEyLjA2YzAtLjMzMy0uMTQzLS41Ny0uNDI5LS43MzdsLTUuOTctMy40NzMgMS45NS0xLjExOGEuNDMzLjQzMyAwIDAxLjQ3NiAwbDQuNTQzIDIuNjE3YzEuMzA5Ljc2IDIuMTg5IDIuMzc4IDIuMTg5IDMuOTQ4IDAgMS44MDgtMS4wNyAzLjQ3My0yLjc2IDQuMTYzek03LjgwMiAxMi43MDNsLTEuOTUtMS4xNDJjLS4xNjctLjA5NS0uMjM5LS4yMzgtLjIzOS0uNDI4VjUuODk5YzAtMi41NDUgMS45NS00LjQ3MiA0LjU5MS00LjQ3MiAxIDAgMS45MjcuMzMzIDIuNzEyLjkyOEw4LjIzIDUuMDY3Yy0uMjg1LjE2Ni0uNDI4LjQwNC0uNDI4LjczN3Y2Ljg5OHpNMTIgMTUuMTI4bC0yLjc5NS0xLjU3di0zLjMzTDEyIDguNjU4bDIuNzk1IDEuNTd2My4zM0wxMiAxNS4xMjh6bTEuNzk2IDcuMjNjLTEgMC0xLjkyNy0uMzMyLTIuNzEyLS45MjdsNC42ODYtMi43MTJjLjI4NS0uMTY2LjQyOC0uNDA0LjQyOC0uNzM3di02Ljg5OGwxLjk3NCAxLjE0MmMuMTY3LjA5NS4yMzguMjM4LjIzOC40Mjh2NS4yMzNjMCAyLjU0NS0xLjk3NCA0LjQ3Mi00LjYxNCA0LjQ3MnptLTUuNjM3LTUuMzAzbC00LjU0NC0yLjYxN2MtMS4zMDgtLjc2MS0yLjE4OC0yLjM3OC0yLjE4OC0zLjk0OEE0LjQ4MiA0LjQ4MiAwIDAxNC4yMSA2LjMyN3Y1LjQyM2MwIC4zMzMuMTQzLjU3MS40MjguNzM4bDUuOTQ3IDMuNDQ5LTEuOTUgMS4xMThhLjQzMi40MzIgMCAwMS0uNDc2IDB6bS0uMjYyIDMuOWMtMi42ODggMC00LjY2Mi0yLjAyMS00LjY2Mi00LjUxOSAwLS4xOS4wMjQtLjM4LjA0Ny0uNTdsNC42ODYgMi43MWMuMjg2LjE2Ny41NzEuMTY3Ljg1NiAwbDUuOTctMy40NDh2Mi4yNmMwIC4xOS0uMDcuMzMzLS4yMzcuNDI4bC00LjU0MyAyLjYxNmMtLjYxOS4zNTctMS4zNTYuNTIzLTIuMTE3LjUyM3ptNS44OTkgMi44M2E1Ljk0NyA1Ljk0NyAwIDAwNS44MjctNC43NTZDMjIuMjg3IDE4LjMzOSAyNCAxNS44NCAyNCAxMy4yOTZjMC0xLjY2NS0uNzEzLTMuMjgyLTEuOTk4LTQuNDQ4LjExOS0uNS4xOS0uOTk5LjE5LTEuNDk4IDAtMy40MDEtMi43NTktNS45NDctNS45NDYtNS45NDctLjY0MiAwLTEuMjYuMDk1LTEuODguMzFBNS45NjIgNS45NjIgMCAwMDEwLjIwNSAwYTUuOTQ3IDUuOTQ3IDAgMDAtNS44MjcgNC43NTdDMS43MTMgNS40NDcgMCA3Ljk0NSAwIDEwLjQ5YzAgMS42NjYuNzEzIDMuMjgzIDEuOTk4IDQuNDQ4LS4xMTkuNS0uMTkgMS0uMTkgMS40OTkgMCAzLjQwMSAyLjc1OSA1Ljk0NiA1Ljk0NiA1Ljk0Ni42NDIgMCAxLjI2LS4wOTUgMS44OC0uMzA5YTUuOTYgNS45NiAwIDAwNC4xNjIgMS43MTN6Ij48L3BhdGg%2BPC9zdmc%2B&logoColor=white" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkdlbWluaTwvdGl0bGU%2BPHBhdGggZD0iTTIwLjYxNiAxMC44MzVhMTQuMTQ3IDE0LjE0NyAwIDAxLTQuNDUtMy4wMDEgMTQuMTExIDE0LjExMSAwIDAxLTMuNjc4LTYuNDUyLjUwMy41MDMgMCAwMC0uOTc1IDAgMTQuMTM0IDE0LjEzNCAwIDAxLTMuNjc5IDYuNDUyIDE0LjE1NSAxNC4xNTUgMCAwMS00LjQ1IDMuMDAxYy0uNjUuMjgtMS4zMTguNTA1LTIuMDAyLjY3OGEuNTAyLjUwMiAwIDAwMCAuOTc1Yy42ODQuMTcyIDEuMzUuMzk3IDIuMDAyLjY3N2ExNC4xNDcgMTQuMTQ3IDAgMDE0LjQ1IDMuMDAxIDE0LjExMiAxNC4xMTIgMCAwMTMuNjc5IDYuNDUzLjUwMi41MDIgMCAwMC45NzUgMGMuMTcyLS42ODUuMzk3LTEuMzUxLjY3Ny0yLjAwM2ExNC4xNDUgMTQuMTQ1IDAgMDEzLjAwMS00LjQ1IDE0LjExMyAxNC4xMTMgMCAwMTYuNDUzLTMuNjc4LjUwMy41MDMgMCAwMDAtLjk3NSAxMy4yNDUgMTMuMjQ1IDAgMDEtMi4wMDMtLjY3OHoiPjwvcGF0aD48L3N2Zz4%3D&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkdyb2s8L3RpdGxlPjxwYXRoIGQ9Ik05LjI3IDE1LjI5bDcuOTc4LTUuODk3Yy4zOTEtLjI5Ljk1LS4xNzcgMS4xMzcuMjcyLjk4IDIuMzY5LjU0MiA1LjIxNS0xLjQxIDcuMTY5LTEuOTUxIDEuOTU0LTQuNjY3IDIuMzgyLTcuMTQ5IDEuNDA2bC0yLjcxMSAxLjI1N2MzLjg4OSAyLjY2MSA4LjYxMSAyLjAwMyAxMS41NjItLjk1MyAyLjM0MS0yLjM0NCAzLjA2Ni01LjUzOSAyLjM4OC04LjQybC4wMDYuMDA3Yy0uOTgzLTQuMjMyLjI0Mi01LjkyNCAyLjc1LTkuMzgzLjA2LS4wODIuMTItLjE2NC4xNzktLjI0OGwtMy4zMDEgMy4zMDV2LS4wMUw5LjI2NyAxNS4yOTJNNy42MjMgMTYuNzIzYy0yLjc5Mi0yLjY3LTIuMzEtNi44MDEuMDcxLTkuMTg0IDEuNzYxLTEuNzYzIDQuNjQ3LTIuNDgzIDcuMTY2LTEuNDI1bDIuNzA1LTEuMjVhNy44MDggNy44MDggMCAwMC0xLjgyOS0xQTguOTc1IDguOTc1IDAgMDA1Ljk4NCA1LjgzYy0yLjUzMyAyLjUzNi0zLjMzIDYuNDM2LTEuOTYyIDkuNzY0IDEuMDIyIDIuNDg3LS42NTMgNC4yNDYtMi4zNCA2LjAyMi0uNTk5LjYzLTEuMTk5IDEuMjU5LTEuNjgyIDEuOTI1bDcuNjItNi44MTUiPjwvcGF0aD48L3N2Zz4%3D&logoColor=white" alt="Grok" />
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlBlcnBsZXhpdHk8L3RpdGxlPjxwYXRoIGQ9Ik0xOS43ODUgMHY3LjI3MkgyMi41VjE3LjYyaC0yLjkzNVYyNGwtNy4wMzctNi4xOTR2Ni4xNDVoLTEuMDkxdi02LjE1Mkw0LjM5MiAyNHYtNi40NjVIMS41VjcuMTg4aDIuODg0VjBsNy4wNTMgNi40OTRWLjE5aDEuMDl2Ni40OUwxOS43ODYgMHptLTcuMjU3IDkuMDQ0djcuMzE5bDUuOTQ2IDUuMjM0VjE0LjQ0bC01Ljk0Ni01LjM5N3ptLTEuMDk5LS4wOGwtNS45NDYgNS4zOTh2Ny4yMzVsNS45NDYtNS4yMzRWOC45NjV6bTguMTM2IDcuNThoMS44NDRWOC4zNDlIMTMuNDZsNi4xMDUgNS41NHYyLjY1NXptLTguOTgyLTguMjhIMi41OXY4LjE5NWgxLjh2LTIuNTc2bDYuMTkyLTUuNjJ6TTUuNDc1IDIuNDc2djQuNzFoNS4xMTVsLTUuMTE1LTQuNzF6bTEzLjIxOSAwbC01LjExNSA0LjcxaDUuMTE1di00LjcxeiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D&logoColor=white" alt="Perplexity" />
-<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkRlZXBTZWVrPC90aXRsZT48cGF0aCBkPSJNMjMuNzQ4IDQuNDgyYy0uMjU0LS4xMjQtLjM2NC4xMTMtLjUxMi4yMzQtLjA1MS4wMzktLjA5NC4wOS0uMTM3LjEzNi0uMzcyLjM5Ny0uODA2LjY1Ny0xLjM3My42MjYtLjgyOS0uMDQ2LTEuNTM3LjIxNC0yLjE2My44NDgtLjEzMy0uNzgyLS41NzUtMS4yNDgtMS4yNDctMS41NDgtLjM1Mi0uMTU2LS43MDgtLjMxMS0uOTU1LS42NS0uMTcyLS4yNDEtLjIxOS0uNTEtLjMwNS0uNzc0LS4wNTUtLjE2LS4xMS0uMzIzLS4yOTMtLjM1LS4yLS4wMzEtLjI3OC4xMzYtLjM1Ni4yNzYtLjMxMy41NzItLjQzNCAxLjIwMi0uNDIyIDEuODQuMDI3IDEuNDM2LjYzMyAyLjU4IDEuODM4IDMuMzkzLjEzNy4wOTMuMTcyLjE4Ny4xMjkuMzIzLS4wODIuMjgtLjE4LjU1Mi0uMjY2LjgzMy0uMDU1LjE3OS0uMTM3LjIxNy0uMzI5LjE0YTUuNTI2IDUuNTI2IDAgMDEtMS43MzYtMS4xOGMtLjg1Ny0uODI4LTEuNjMxLTEuNzQyLTIuNTk3LTIuNDU4YTExLjM2NSAxMS4zNjUgMCAwMC0uNjg5LS40NzFjLS45ODUtLjk1Ny4xMy0xLjc0My4zODgtMS44MzYuMjctLjA5OC4wOTMtLjQzMi0uNzc5LS40MjgtLjg3Mi4wMDQtMS42Ny4yOTUtMi42ODcuNjg0YTMuMDU1IDMuMDU1IDAgMDEtLjQ2NS4xMzcgOS41OTcgOS41OTcgMCAwMC0yLjg4My0uMTAyYy0xLjg4NS4yMS0zLjM5IDEuMTAyLTQuNDk3IDIuNjIzQy4wODIgOC42MDYtLjIzMSAxMC42ODQuMTUyIDEyLjg1Yy40MDMgMi4yODQgMS41NjkgNC4xNzUgMy4zNiA1LjY1MyAxLjg1OCAxLjUzMyAzLjk5NyAyLjI4NCA2LjQzOCAyLjE0IDEuNDgyLS4wODUgMy4xMzMtLjI4NCA0Ljk5NC0xLjg2LjQ3LjIzNC45NjIuMzI3IDEuNzguMzk3LjYzLjA1OSAxLjIzNi0uMDMgMS43MDUtLjEyOC43MzUtLjE1Ni42ODQtLjgzNy40MTktLjk2MS0yLjE1NS0xLjAwNC0xLjY4Mi0uNTk1LTIuMTEzLS45MjYgMS4wOTYtMS4yOTYgMi43NDYtMi42NDIgMy4zOTItNy4wMDMuMDUtLjM0Ny4wMDctLjU2NSAwLS44NDUtLjAwNC0uMTcuMDM1LS4yMzcuMjMtLjI1NmE0LjE3MyA0LjE3MyAwIDAwMS41NDUtLjQ3NWMxLjM5Ni0uNzYzIDEuOTYtMi4wMTUgMi4wOTMtMy41MTcuMDItLjIzLS4wMDQtLjQ2Ny0uMjQ3LS41ODh6TTExLjU4MSAxOGMtMi4wODktMS42NDItMy4xMDItMi4xODMtMy41Mi0yLjE2LS4zOTIuMDI0LS4zMjEuNDcxLS4yMzUuNzYzLjA5LjI4OC4yMDcuNDg2LjM3MS43MzkuMTE0LjE2Ny4xOTIuNDE2LS4xMTMuNjAzLS42NzMuNDE2LTEuODQyLS4xNC0xLjg5Ny0uMTY3LTEuMzYxLS44MDItMi41LTEuODYtMy4zMDEtMy4zMDctLjc3NC0xLjM5My0xLjIyNC0yLjg4Ny0xLjI5OC00LjQ4Mi0uMDItLjM4Ni4wOTMtLjUyMi40NzctLjU5MmE0LjY5NiA0LjY5NiAwIDAxMS41MjktLjAzOWMyLjEzMi4zMTIgMy45NDYgMS4yNjUgNS40NjggMi43NzQuODY4Ljg2IDEuNTI1IDEuODg3IDIuMjAyIDIuODkxLjcyIDEuMDY2IDEuNDk0IDIuMDgyIDIuNDggMi45MTQuMzQ4LjI5Mi42MjUuNTE0Ljg5MS42NzctLjgwMi4wOS0yLjE0LjExLTMuMDU0LS42MTR6bTEtNi40NGEuMzA2LjMwNiAwIDAxLjQxNS0uMjg3LjMwMi4zMDIgMCAwMS4yLjI4OC4zMDYuMzA2IDAgMDEtLjMxLjMwNy4zMDMuMzAzIDAgMDEtLjMwNC0uMzA4em0zLjExIDEuNTk2Yy0uMi4wODEtLjM5OS4xNTEtLjU5LjE2YTEuMjQ1IDEuMjQ1IDAgMDEtLjc5OC0uMjU0Yy0uMjc0LS4yMy0uNDctLjM1OC0uNTUyLS43NThhMS43MyAxLjczIDAgMDEuMDE2LS41ODhjLjA3LS4zMjctLjAwOC0uNTM3LS4yMzktLjcyNy0uMTg3LS4xNTYtLjQyNi0uMTk5LS42ODgtLjE5OWEuNTU5LjU1OSAwIDAxLS4yNTQtLjA3OGMtLjExLS4wNTQtLjItLjE5LS4xMTQtLjM1OC4wMjgtLjA1NC4xNi0uMTg2LjE5Mi0uMjEuMzU2LS4yMDIuNzY3LS4xMzYgMS4xNDYuMDE2LjM1Mi4xNDQuNjE4LjQwOCAxLjAwMS43ODIuMzkxLjQ1MS40NjIuNTc2LjY4NS45MTQuMTc2LjI2NS4zMzYuNTM3LjQ0NS44NDguMDY3LjE5NS0uMDE5LjM1NC0uMjUuNDUyeiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D&logoColor=white" alt="DeepSeek" />
-</p>
-
-**Coding Agents & Dev Tools**
-
-<p>
-<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkNvZGV4PC90aXRsZT48cGF0aCBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04LjA4Ni40NTdhNi4xMDUgNi4xMDUgMCAwMTMuMDQ2LS40MTVjMS4zMzMuMTUzIDIuNTIxLjcyIDMuNTY0IDEuN2EuMTE3LjExNyAwIDAwLjEwNy4wMjljMS40MDgtLjM0NiAyLjc2Mi0uMjI0IDQuMDYxLjM2NmwuMDYzLjAzLjE1NC4wNzZjMS4zNTcuNzAzIDIuMzMgMS43NyAyLjkxOCAzLjE5OC4yNzguNjc5LjQxOCAxLjM4OC40MjEgMi4xMjZhNS42NTUgNS42NTUgMCAwMS0uMTggMS42MzEuMTY3LjE2NyAwIDAwLjA0LjE1NSA1Ljk4MiA1Ljk4MiAwIDAxMS41NzggMi44OTFjLjM4NSAxLjkwMS0uMDEgMy42MTUtMS4xODMgNS4xNGwtLjE4Mi4yMmE2LjA2MyA2LjA2MyAwIDAxLTIuOTM0IDEuODUxLjE2Mi4xNjIgMCAwMC0uMTA4LjEwMmMtLjI1NS43MzYtLjUxMSAxLjM2NC0uOTg3IDEuOTkyLTEuMTk5IDEuNTgyLTIuOTYyIDIuNDYyLTQuOTQ4IDIuNDUxLTEuNTgzLS4wMDgtMi45ODYtLjU4Ny00LjIxLTEuNzM2YS4xNDUuMTQ1IDAgMDAtLjE0LS4wMzJjLS41MTguMTY3LTEuMDQuMTkxLTEuNjA0LjE4NWE1LjkyNCA1LjkyNCAwIDAxLTIuNTk1LS42MjIgNi4wNTggNi4wNTggMCAwMS0yLjE0Ni0xLjc4MWMtLjIwMy0uMjY5LS40MDQtLjUyMi0uNTUxLS44MjFhNy43NCA3Ljc0IDAgMDEtLjQ5NS0xLjI4MyA2LjExIDYuMTEgMCAwMS0uMDE3LTMuMDY0LjE2Ni4xNjYgMCAwMC4wMDgtLjA3NC4xMTUuMTE1IDAgMDAtLjAzNy0uMDY0IDUuOTU4IDUuOTU4IDAgMDEtMS4zOC0yLjIwMiA1LjE5NiA1LjE5NiAwIDAxLS4zMzMtMS41ODkgNi45MTUgNi45MTUgMCAwMS4xODgtMi4xMzJjLjQ1LTEuNDg0IDEuMzA5LTIuNjQ4IDIuNTc3LTMuNDkzLjI4Mi0uMTg4LjU1LS4zMzQuODAyLS40MzguMjg2LS4xMi41NzMtLjIyLjg2MS0uMzA0YS4xMjkuMTI5IDAgMDAuMDg3LS4wODdBNi4wMTYgNi4wMTYgMCAwMTUuNjM1IDIuMzFDNi4zMTUgMS40NjQgNy4xMzIuODQ2IDguMDg2LjQ1N3ptLS44MDQgNy44NWEuODQ4Ljg0OCAwIDAwLTEuNDczLjg0MmwxLjY5NCAyLjk2NS0xLjY4OCAyLjg0OGEuODQ5Ljg0OSAwIDAwMS40Ni44NjRsMS45NC0zLjI3MmEuODQ5Ljg0OSAwIDAwLjAwNy0uODU0bC0xLjk0LTMuMzkzem01LjQ0NiA2LjI0YS44NDkuODQ5IDAgMDAwIDEuNjk1aDQuODQ4YS44NDkuODQ5IDAgMDAwLTEuNjk2aC00Ljg0OHoiPjwvcGF0aD48L3N2Zz4%3D&logoColor=white" alt="Codex" />
-<img src="https://img.shields.io/badge/Gemini%20CLI-8E75B2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkdlbWluaSBDTEk8L3RpdGxlPjxwYXRoIGQ9Ik0xNi43OTMgMTAuMzU4djMuODY3TDcuMjM2IDE4Ljgydi0yLjhsNy43NTEtMy43MjgtNy43NS0zLjcyOFY1Ljc2M2w5LjU1NiA0LjU5NXoiPjwvcGF0aD48cGF0aCBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xOS42MDggMEE0LjM5MiA0LjM5MiAwIDAxMjQgNC4zOTJ2MTUuMjE2QTQuMzkyIDQuMzkyIDAgMDExOS42MDggMjRINC4zOTJBNC4zOTIgNC4zOTIgMCAwMTAgMTkuNjA4VjQuMzkyQTQuMzkyIDQuMzkyIDAgMDE0LjM5MiAwaDE1LjIxNnpNNC4yNiAxLjQ0NEEyLjgxNiAyLjgxNiAwIDAwMS40NDQgNC4yNnYxNS40OGEyLjgxNiAyLjgxNiAwIDAwMi44MTYgMi44MTZoMTUuNDhhMi44MTYgMi44MTYgMCAwMDIuODE2LTIuODE2VjQuMjZhMi44MTYgMi44MTYgMCAwMC0yLjgxNi0yLjgxNkg0LjI2eiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D&logoColor=white" alt="Gemini CLI" />
-<img src="https://img.shields.io/badge/OpenCode-211E1E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPm9wZW5jb2RlPC90aXRsZT48cGF0aCBkPSJNMTYgNkg4djEyaDhWNnptNCAxNkg0VjJoMTZ2MjB6Ij48L3BhdGg%2BPC9zdmc%2B&logoColor=white" alt="OpenCode" />
-<img src="https://img.shields.io/badge/Pi%20Agent-2B2B2B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlBpPC90aXRsZT48cGF0aCBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xIDFoMTYuNXYxMUgxMnY1LjVINi41VjIzSDFWMXptNS41IDUuNVYxMkgxMlY2LjVINi41eiI%2BPC9wYXRoPjxwYXRoIGQ9Ik0xNy41IDEySDIzdjExaC01LjVWMTJ6Ij48L3BhdGg%2BPC9zdmc%2B&logoColor=white" alt="Pi Agent" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkdpdGh1YkNvcGlsb3Q8L3RpdGxlPjxwYXRoIGQ9Ik0xOS4yNDUgNS4zNjRjMS4zMjIgMS4zNiAxLjg3NyAzLjIxNiAyLjExIDUuODE3LjYyMiAwIDEuMi4xMzUgMS41OTIuNjU0bC43My45NjRjLjIxLjI3OC4zMjMuNjEuMzIzLjk1NXYyLjYyYzAgLjMzOS0uMTczLjY2OS0uNDUzLjg2OEMyMC4yMzkgMTkuNjAyIDE2LjE1NyAyMS41IDEyIDIxLjVjLTQuNiAwLTkuMjA1LTIuNTgzLTExLjU0Ny00LjI1OC0uMjgtLjItLjQ1Mi0uNTMtLjQ1My0uODY4di0yLjYyYzAtLjM0NS4xMTMtLjY3OS4zMjEtLjk1NmwuNzMtLjk2M2MuMzkyLS41MTcuOTc0LS42NTQgMS41OTMtLjY1NGwuMDI5LS4yOTdjLjI1LTIuNDQ2LjgxLTQuMjEzIDIuMDgyLTUuNTIgMi40NjEtMi41NCA1LjcxLTIuODUxIDcuMTQ2LTIuODY0aC4xOThjMS40MzYuMDEzIDQuNjg1LjMyMyA3LjE0NiAyLjg2NHptLTcuMjQ0IDQuMzI4Yy0uMjg0IDAtLjYxMy4wMTYtLjk2Mi4wNS0uMTIzLjQ0Ny0uMzA1Ljg1LS41NyAxLjEwOC0xLjA1IDEuMDIzLTIuMzE2IDEuMTgtMi45OTQgMS4xOC0uNjM4IDAtMS4zMDYtLjEzLTEuODUxLS40NjQtLjUxNi4xNjUtMS4wMTIuNDAzLTEuMDQ0Ljk5NmE2NS44ODIgNjUuODgyIDAgMDAtLjA2MyAyLjg4NGwtLjAwMi40OGMtLjAwMi41NjMtLjAwNSAxLjEyNi0uMDEzIDEuNjkuMDAyLjMyNi4yMDQuNjMuNTEuNzY1IDIuNDgyIDEuMTAyIDQuODMgMS42NTcgNi45OSAxLjY1NyAyLjE1NiAwIDQuNTA0LS41NTUgNi45ODUtMS42NTdhLjg1NC44NTQgMCAwMC41MS0uNzY2Yy4wMy0xLjY4Mi4wMDYtMy4zNzItLjA3Ni01LjA1My0uMDMxLS41OTYtLjUyOC0uODMtMS4wNDYtLjk5Ni0uNTQ2LjMzMy0xLjIxMi40NjQtMS44NS40NjQtLjY3NyAwLTEuOTQyLS4xNTctMi45OTMtMS4xOC0uMjY2LS4yNTgtLjQ0Ny0uNjYxLS41Ny0xLjEwOC0uMzItLjAzMi0uNjQtLjA0OS0uOTYtLjA1em0tMi41MjUgNC4wMTNjLjUzOSAwIC45NzYuNDI2Ljk3Ni45NXYxLjc1M2MwIC41MjUtLjQzNy45NS0uOTc2Ljk1YS45NjQuOTY0IDAgMDEtLjk3Ni0uOTV2LTEuNzUyYzAtLjUyNS40MzctLjk1MS45NzYtLjk1MXptNSAwYy41MzkgMCAuOTc2LjQyNi45NzYuOTV2MS43NTNjMCAuNTI1LS40MzcuOTUtLjk3Ni45NWEuOTY0Ljk2NCAwIDAxLS45NzYtLjk1di0xLjc1MmMwLS41MjUuNDM3LS45NTEuOTc2LS45NTF6TTcuNjM1IDUuMDg3Yy0xLjA1LjEwMi0xLjkzNS40MzgtMi4zODUuOTA2LS45NzUgMS4wMzctLjc2NSAzLjY2OC0uMjEgNC4yMjQuNDA1LjM5NCAxLjE3LjY1NyAxLjk5NS42NTdoLjA5Yy42NDktLjAxMyAxLjc4NS0uMTc2IDIuNzMtMS4xMS40MzUtLjQxLjcwNS0xLjQzMy42NzUtMi40Ny0uMDMtLjgzNC0uMjctMS41Mi0uNjMtMS44MTMtLjM5LS4zMzYtMS4yNzUtLjQ4Mi0yLjI2NS0uMzk0em02LjQ2NS4zOTRjLS4zNi4yOTItLjYuOTgtLjYzIDEuODEzLS4wMyAxLjAzNy4yNCAyLjA2LjY3NSAyLjQ3Ljk2OC45NTcgMi4xMzYgMS4xMDQgMi43NzYgMS4xMWguMDQ0Yy44MjUgMCAxLjU5LS4yNjMgMS45OTUtLjY1Ny41NTUtLjU1Ni43NjUtMy4xODctLjIxLTQuMjI0LS40NS0uNDY4LTEuMzM1LS44MDQtMi4zODUtLjkwNi0uOTktLjA4OC0xLjg3NS4wNTgtMi4yNjUuMzk0ek0xMiA3LjYxNWMtLjI0IDAtLjUyNS4wMTUtLjg0LjA0NC4wMy4xNi4wNDUuMzM2LjA2LjUyNmwtLjAwMS4xNTlhMi45NCAyLjk0IDAgMDEtLjAxNC4yNWMuMjI1LS4wMjIuNDI1LS4wMjcuNjEyLS4wMjhoLjM2NmMuMTg3IDAgLjM4Ny4wMDYuNjEyLjAyOC0uMDE1LS4xNDYtLjAxNS0uMjc3LS4wMTUtLjQwOS4wMTUtLjE5LjAzLS4zNjUuMDYtLjUyNmE5LjI5IDkuMjkgMCAwMC0uODQtLjA0NHoiPjwvcGF0aD48L3N2Zz4%3D&logoColor=white" alt="GitHub Copilot" />
-<img src="https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkN1cnNvcjwvdGl0bGU%2BPHBhdGggZD0iTTIyLjEwNiA1LjY4TDEyLjUuMTM1YS45OTguOTk4IDAgMDAtLjk5OCAwTDEuODkzIDUuNjhhLjg0Ljg0IDAgMDAtLjQxOS43MjZ2MTEuMTg2YzAgLjMuMTYuNTc3LjQyLjcyN2w5LjYwNyA1LjU0N2EuOTk5Ljk5OSAwIDAwLjk5OCAwbDkuNjA4LTUuNTQ3YS44NC44NCAwIDAwLjQyLS43MjdWNi40MDdhLjg0Ljg0IDAgMDAtLjQyLS43MjZ6bS0uNjAzIDEuMTc2TDEyLjIyOCAyMi45MmMtLjA2My4xMDgtLjIyOC4wNjQtLjIyOC0uMDYxVjEyLjM0YS41OS41OSAwIDAwLS4yOTUtLjUxbC05LjExLTUuMjZjLS4xMDctLjA2Mi0uMDYzLS4yMjguMDYyLS4yMjhoMTguNTVjLjI2NCAwIC40MjguMjg2LjI5Ni41MTR6Ij48L3BhdGg%2BPC9zdmc%2B&logoColor=white" alt="Cursor" />
-<img src="https://img.shields.io/badge/Ollama-3A3A3A?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</p>
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/divider.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/divider.svg?v=3" width="100%" alt="" />
+</picture>
 
 <picture>
   <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-stats.svg?v=3" />
@@ -174,6 +158,11 @@ I use AI every day to learn faster, ship faster and break things in more interes
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-season-animate.svg" />
   <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-season-animate.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/divider.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/divider.svg?v=3" width="100%" alt="" />
 </picture>
 
 <picture>
@@ -208,6 +197,11 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
 </picture>
 
 <picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/divider.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/divider.svg?v=3" width="100%" alt="" />
+</picture>
+
+<picture>
   <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-guestbook.svg?v=3" />
   <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/guestbook.svg?v=3" width="100%" alt="Guestbook" />
 </picture>
@@ -239,6 +233,23 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
 <img src="assets/jakarta.svg?v=2" width="100%" alt="Jakarta at night" />
 
 **Thanks for stopping by!** ⭐ Made with ☕ in Jakarta. Feel free to check out my repos.
+
+<details>
+<summary>🥚 <b>psst... click me</b></summary>
+<br />
+
+```console
+$ sudo make me a sandwich
+[sudo] password for visitor: ********
+🥪 Okay. But only because you scrolled all the way down here.
+
+$ cat ~/.secret
+☕ Fun fact: most of the art on this page is plain SVG code. Powered by coffee.
+🐾 The cat on the desk is the same cat that runs between sections.
+🎁 Found this? Drop "kopi" in the guestbook so I know you were here.
+```
+
+</details>
 
 </div>
 

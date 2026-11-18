@@ -72,6 +72,8 @@ I care about the design side as much as the code, and I love making things peopl
 
 <img src="assets/sections/stack.svg?v=2" width="100%" alt="Tech Stack" />
 
+<img src="assets/marquee.svg?v=2" width="100%" alt="Tech and AI tools" />
+
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,java,swift&perline=12" alt="languages" />
@@ -179,9 +181,9 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
 
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFhdWJhZmN4N3FlcHpidmZmMThkN2k0ZHE2eGxiOWZpODdnNzZhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="180" alt="coding" />
+<img src="assets/jakarta.svg?v=2" width="100%" alt="Jakarta at night" />
 
-**Thanks for stopping by!** ⭐ Feel free to check out my repos.
+**Thanks for stopping by!** ⭐ Made with ☕ in Jakarta. Feel free to check out my repos.
 
 </div>
 

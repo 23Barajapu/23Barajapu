@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Hiroyuki Takayumi" />
+<img src="assets/header.svg?v=2" width="100%" alt="Hiroyuki Takayumi" />
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 </div>
 
-<img src="assets/sections/about.svg" width="100%" alt="About Me" />
+<img src="assets/sections/about.svg?v=2" width="100%" alt="About Me" />
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAwejdrMW92aThvOGhxN2phamhrcGljZ244cmdjbWVpdWNkdHBtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" height="160" alt="hello" />
 
@@ -48,17 +48,17 @@ I care about the design side as much as the code, and I love making things peopl
 - 💬 Ask me about web dev, Linux, AI tools or making apps look nice
 - 🤝 Open to collabs, especially on open source and developer tools
 
-<img src="assets/neofetch.svg" width="100%" alt="neofetch: hiroyuki@jakarta" />
+<img src="assets/neofetch.svg?v=2" width="100%" alt="neofetch: hiroyuki@jakarta" />
 
 > *Stay curious, keep exploring, and never stop building.* 🚀
 
-<img src="assets/sections/projects.svg" width="100%" alt="Projects" />
+<img src="assets/sections/projects.svg?v=2" width="100%" alt="Projects" />
 
 <p align="center">
-  <a href="https://github.com/Hiroyki/Svara"><img src="assets/projects/svara.svg" width="49%" alt="Svara" /></a>
-  <img src="assets/projects/nusa.svg" width="49%" alt="Nusa" />
-  <img src="assets/projects/pawdrop.svg" width="49%" alt="Pawdrop" />
-  <img src="assets/projects/pomodoro.svg" width="49%" alt="Pomodoro Timer" />
+  <a href="https://github.com/Hiroyki/Svara"><img src="assets/projects/svara.svg?v=2" width="49%" alt="Svara" /></a>
+  <img src="assets/projects/nusa.svg?v=2" width="49%" alt="Nusa" />
+  <img src="assets/projects/pawdrop.svg?v=2" width="49%" alt="Pawdrop" />
+  <img src="assets/projects/pomodoro.svg?v=2" width="49%" alt="Pomodoro Timer" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ I care about the design side as much as the code, and I love making things peopl
 
 <p align="center"><sub>🔒 Nusa, Pawdrop and Pomodoro Timer are private for now. They'll go public once they're ready.</sub></p>
 
-<img src="assets/sections/stack.svg" width="100%" alt="Tech Stack" />
+<img src="assets/sections/stack.svg?v=2" width="100%" alt="Tech Stack" />
 
 **Languages**
 
@@ -88,7 +88,7 @@ I care about the design side as much as the code, and I love making things peopl
 
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au&perline=12" alt="design tools" />
 
-<img src="assets/sections/ai.svg" width="100%" alt="AI Toolbox" />
+<img src="assets/sections/ai.svg?v=2" width="100%" alt="AI Toolbox" />
 
 I use AI every day to learn faster, ship faster and break things in more interesting ways.
 
@@ -117,7 +117,7 @@ I use AI every day to learn faster, ship faster and break things in more interes
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
-<img src="assets/sections/stats.svg" width="100%" alt="GitHub Stats" />
+<img src="assets/sections/stats.svg?v=2" width="100%" alt="GitHub Stats" />
 
 <div align="center">
 
@@ -131,7 +131,7 @@ I use AI every day to learn faster, ship faster and break things in more interes
 
 </div>
 
-<img src="assets/sections/city.svg" width="100%" alt="3D Contributions" />
+<img src="assets/sections/city.svg?v=2" width="100%" alt="3D Contributions" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-night-rainbow.svg" />
@@ -139,7 +139,7 @@ I use AI every day to learn faster, ship faster and break things in more interes
   <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-season-animate.svg" />
 </picture>
 
-<img src="assets/sections/arcade.svg" width="100%" alt="Contribution Arcade" />
+<img src="assets/sections/arcade.svg?v=2" width="100%" alt="Contribution Arcade" />
 
 My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refreshed every day.
 
@@ -167,7 +167,7 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
   <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/breakout-contribution-graph.svg" />
 </picture>
 
-<img src="assets/sections/break.svg" width="100%" alt="Break Time" />
+<img src="assets/sections/break.svg?v=2" width="100%" alt="Break Time" />
 
 <div align="center">
 
@@ -185,4 +185,4 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="See you around" />
+<img src="assets/footer.svg?v=2" width="100%" alt="See you around" />

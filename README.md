@@ -66,12 +66,12 @@ I care about the design side as much as the code, and I love making things peopl
   <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/projects.svg?v=3" width="100%" alt="Projects" />
 </picture>
 
-<a href="https://github.com/Hiroyki/Svara">
-<picture>
-  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/projects.svg?v=3" />
-  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/projects-grid.svg?v=3" width="100%" alt="Projects: Svara, Nusa, Pawdrop, Pomodoro Timer" />
-</picture>
-</a>
+<p align="center">
+  <a href="https://github.com/Hiroyki/Svara"><img src="assets/projects/svara.svg?v=3" alt="Svara: open the repo" /></a>
+  <a href="https://github.com/Hiroyki?tab=repositories"><img src="assets/projects/nusa.svg?v=3" alt="Nusa (private)" /></a>
+  <a href="https://github.com/Hiroyki?tab=repositories"><img src="assets/projects/pawdrop.svg?v=3" alt="Pawdrop (private)" /></a>
+  <a href="https://github.com/Hiroyki?tab=repositories"><img src="assets/projects/pomodoro.svg?v=3" alt="Pomodoro Timer (private)" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Hiroyki/Svara"><img src="https://img.shields.io/badge/Svara-open%20repo-bb9af7?style=flat-square&logo=github&labelColor=1a1b27" alt="open Svara" /></a>

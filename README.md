@@ -1,140 +1,122 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAwejdrMW92aThvOGhxN2phamhrcGljZ244cmdjbWVpdWNkdHBtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Hiroyuki%20Takayumi&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=36&desc=%E9%AB%98%E5%BC%93%E8%A3%95%E4%B9%8B&descAlignY=58&descSize=18" width="100%" alt="header" />
+
+<div align="center">
+
+<a href="https://github.com/Hiroyki"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Turning+coffee+into+code+%E2%98%95;Linux+%E2%80%A2+CLI+tools+%E2%80%A2+Modern+web;Exploring+AI+agents+%26+automation+%F0%9F%A4%96;Based+in+Jakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
+
+<a href="https://www.linkedin.com/in/fikri-rahmatulloh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/faquloh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://x.com/quraishlo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://wa.me/6285133162432"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+
+<img src="https://count.getloli.com/@:Hiroyki?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="profile views" />
+
 </div>
 
-###
+## 🧑‍💻 About Me
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/fikri-rahmatulloh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/faquloh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/6285133162432" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="https://x.com/quraishlo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAwejdrMW92aThvOGhxN2phamhrcGljZ244cmdjbWVpdWNkdHBtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" height="160" alt="hello" />
+
+I like figuring out how things work, then building my own version of them. Most days that means Linux, CLI tools, modern web tech, and lately a lot of AI.
+
+- 🔭 Building **[Svara](https://github.com/Hiroyki/Svara)**, an ad-light music player for web, Windows and Android
+- 🏝️ Hacking on **Nusa**, a Dynamic Island for MacBook, Windows and Linux
+- 🤖 Learning AI agents, agentic workflows and automation
+- 🛠️ Into open source, developer tools and anything that saves me a few keystrokes
+- 🌱 Always shipping side projects, some finished, most "almost done"
+- 💬 Ask me about web dev, Linux or making apps look nice
+
+> *Stay curious, keep exploring, and never stop building.* 🚀
+
+## 🚀 Projects
+
+<div align="center">
+
+<a href="https://github.com/Hiroyki/Svara"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroyki&repo=Svara&theme=tokyonight&hide_border=true&border_radius=10" alt="Svara" /></a>
+
 </div>
 
-###
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🏝️ Nusa</h4>
+      Dynamic Island for MacBook, Windows and Linux.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+      <img src="https://img.shields.io/badge/status-in%20progress-7aa2f7?style=flat-square" alt="in progress" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>🐾 Pawdrop</h4>
+      Send files to devices nearby. Installers for Windows, macOS and Linux.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Cross--platform-555?style=flat-square&logo=electron&logoColor=white" alt="Cross-platform" />
+      <img src="https://img.shields.io/badge/status-in%20progress-7aa2f7?style=flat-square" alt="in progress" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>🍅 Pomodoro Timer</h4>
+      Lo-fi pomodoro timer with a pixel-art focus room.
+      <br /><br />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/status-in%20progress-7aa2f7?style=flat-square" alt="in progress" />
+    </td>
+  </tr>
+</table>
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:Hiroyki?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+<sub>🔒 Nusa, Pawdrop and Pomodoro Timer are private for now. They'll go public once they're ready.</sub>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,java,swift&perline=12" alt="languages" />
+
+**Frameworks & Runtime**
+
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,nestjs,adonis,bootstrap,jquery&perline=12" alt="frameworks" />
+
+**Tools & Infra**
+
+<img src="https://skillicons.dev/icons?i=linux,git,docker,nginx,mongodb,vercel,netlify,vscode,androidstudio&perline=12" alt="tools" />
+
+**Design & Video**
+
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au&perline=12" alt="design tools" />
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hiroyki&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroyki&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="170" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Hiroyki&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiroyki&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" alt="activity graph" />
+
 </div>
 
-###
+## 🐍 Contribution Snake
 
-<p data-importer="text" align="center">Hey there! 👋<br><br>I'm a technology enthusiast who loves exploring new ideas, learning how things work, and building things with technology.</p>
-
-###
-
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
-
-###
-
-<p data-importer="text" align="left">I'm a technology enthusiast from Indonesia 🇮🇩, passionate about exploring technology, building things, and continuously learning new skills.<br><br>- 🔭 I’m working on personal projects involving AI, automation, and technology.<br>- 📚 I'm currently learning Artificial Intelligence, Agentic AI, software development, and automation.<br>- 🤖 I'm passionate about AI agents, open source, developer tools, and emerging technologies.<br>- 💻 I enjoy experimenting with different programming tools, frameworks, and technologies.<br>- 🌱 I'm always looking for opportunities to improve my skills and turn ideas into reality.<br>- ⚡ In my free time, I explore new technologies, experiment with AI tools, build side projects, and contribute to my personal projects.<br>- 🎯 My goal is to keep learning, building, and creating meaningful things through technology.<br><br>**"Stay curious, keep exploring, and never stop building."** 🚀</p>
-
-###
-
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.simpleicons.org/firefox/FF7139" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/behance/1769FF" height="40" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/composer/885630" height="40" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/coffeescript/2F2625" height="40" alt="coffeescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=au" height="40" alt="adobeaudition logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=adonis" height="40" alt="adonisjs logo"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Hiroyki&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/github-snake.svg" />
 </picture>
 
-###
+## 👾 Pac-Man Contributions
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFhdWJhZmN4N3FlcHpidmZmMThkN2k0ZHE2eGxiOWZpODdnNzZhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/pacman-contribution-graph.svg" />
+</picture>
+
+<div align="center">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFhdWJhZmN4N3FlcHpidmZmMThkN2k0ZHE2eGxiOWZpODdnNzZhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="180" alt="coding" />
+
+**Thanks for stopping by!** ⭐ Feel free to check out my repos.
+
 </div>
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" alt="footer" />

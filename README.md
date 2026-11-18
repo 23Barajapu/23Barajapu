@@ -182,7 +182,9 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
 </p>
 
 <!-- GUESTBOOK:START -->
-<p align="center"><i>No entries yet. Be the first to sign! ✨</i></p>
+| | Visitor | Message | Date |
+|:-:|---|---|---|
+| <img src="https://github.com/Hiroyki.png?size=48" width="28" alt="Hiroyki" /> | [Hiroyki](https://github.com/Hiroyki) | First entry Welcome to my little corner of GitHub ✨ Leave a hi below 👇 | 2026-11-18 |
 <!-- GUESTBOOK:END -->
 
 <img src="assets/sections/break.svg?v=2" width="100%" alt="Break Time" />

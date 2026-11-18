@@ -4,10 +4,10 @@
 
 <a href="https://github.com/Hiroyki"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Halo!+Hello!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+%F0%9F%91%8B;Turning+coffee+into+code+%E2%98%95;Linux+%E2%80%A2+CLI+tools+%E2%80%A2+Modern+web;Exploring+AI+agents+%26+automation+%F0%9F%A4%96;Shipping+with+Claude+Code+%26+OpenCode+%E2%9A%A1;Based+in+Jakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
 
-<a href="https://www.linkedin.com/in/fikri-rahmatulloh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/faquloh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://x.com/quraishlo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://wa.me/6285133162432"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.linkedin.com/in/fikri-rahmatulloh/"><img src="assets/social/linkedin.svg?v=2" width="200" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/faquloh"><img src="assets/social/instagram.svg?v=2" width="200" alt="Instagram" /></a>
+<a href="https://x.com/quraishlo"><img src="assets/social/x.svg?v=2" width="200" alt="X" /></a>
+<a href="https://wa.me/6285133162432"><img src="assets/social/whatsapp.svg?v=2" width="200" alt="WhatsApp" /></a>
 
 <a href="https://github.com/Hiroyki?tab=followers"><img src="https://img.shields.io/github/followers/Hiroyki?style=for-the-badge&logo=github&label=Followers&color=7aa2f7&labelColor=1a1b27" alt="followers" /></a>
 <a href="https://github.com/Hiroyki?tab=repositories"><img src="https://img.shields.io/github/stars/Hiroyki?style=for-the-badge&logo=github&label=Stars&color=e0af68&labelColor=1a1b27&affiliations=OWNER" alt="stars" /></a>
@@ -69,6 +69,10 @@ I care about the design side as much as the code, and I love making things peopl
 </p>
 
 <p align="center"><sub>🔒 Nusa, Pawdrop and Pomodoro Timer are private for now. They'll go public once they're ready.</sub></p>
+
+<img src="assets/sections/journey.svg?v=2" width="100%" alt="Journey" />
+
+<img src="assets/timeline.svg?v=2" width="100%" alt="Journey timeline" />
 
 <img src="assets/sections/stack.svg?v=2" width="100%" alt="Tech Stack" />
 
@@ -168,6 +172,18 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/breakout-contribution-graph.svg" />
   <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/breakout-contribution-graph.svg" />
 </picture>
+
+<img src="assets/sections/guestbook.svg?v=2" width="100%" alt="Guestbook" />
+
+<p align="center">Drop a hi! Your message shows up here automatically. 👇</p>
+
+<p align="center">
+  <a href="https://github.com/Hiroyki/hiroyki/issues/new?template=guestbook.yml"><img src="https://img.shields.io/badge/✍️%20Sign%20the%20guestbook-7dcfff?style=for-the-badge&labelColor=1a1b27" alt="Sign the guestbook" /></a>
+</p>
+
+<!-- GUESTBOOK:START -->
+<p align="center"><i>No entries yet. Be the first to sign! ✨</i></p>
+<!-- GUESTBOOK:END -->
 
 <img src="assets/sections/break.svg?v=2" width="100%" alt="Break Time" />
 

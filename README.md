@@ -9,6 +9,10 @@
 <a href="https://x.com/quraishlo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://wa.me/6285133162432"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
+<a href="https://github.com/Hiroyki?tab=followers"><img src="https://img.shields.io/github/followers/Hiroyki?style=for-the-badge&logo=github&label=Followers&color=7aa2f7&labelColor=1a1b27" alt="followers" /></a>
+<a href="https://github.com/Hiroyki?tab=repositories"><img src="https://img.shields.io/github/stars/Hiroyki?style=for-the-badge&logo=github&label=Stars&color=e0af68&labelColor=1a1b27&affiliations=OWNER" alt="stars" /></a>
+<img src="https://img.shields.io/badge/Open%20to-Collab-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="open to collab" />
+
 <img src="https://count.getloli.com/@:Hiroyki?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="profile views" />
 
 </div>
@@ -124,15 +128,19 @@ I use AI every day to learn faster, ship faster and break things in more interes
 
 </div>
 
-## 💭 Dev Quote of the Day
+## 🏙️ 3D Contributions
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-season-animate.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-season-animate.svg" />
+</picture>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+## 🎮 Contribution Arcade
 
-</div>
+My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refreshed every day.
 
-## 🐍 Contribution Snake
+**🐍 Snake**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/github-snake-dark.svg" />
@@ -140,13 +148,31 @@ I use AI every day to learn faster, ship faster and break things in more interes
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/github-snake.svg" />
 </picture>
 
-## 👾 Pac-Man Contributions
+**👾 Pac-Man**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/pacman-contribution-graph.svg" />
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/pacman-contribution-graph.svg" />
 </picture>
+
+**🧱 Breakout**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/breakout-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/breakout-contribution-graph.svg" />
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/breakout-contribution-graph.svg" />
+</picture>
+
+## ☕ Break Time
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="dev joke" />
+
+</div>
 
 <div align="center">
 

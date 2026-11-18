@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/about.svg?v=3" width="100%" alt="About Me" />
 </picture>
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAwejdrMW92aThvOGhxN2phamhrcGljZ244cmdjbWVpdWNkdHBtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" height="160" alt="hello" />
+<p align="center"><img src="assets/desk.svg?v=3" width="360" alt="A cozy coding desk: sleeping cat, coffee and code" /></p>
 
 I like figuring out how things work, then building my own version of them. Most days that means Linux, CLI tools, modern web tech, and lately a lot of AI.
 
@@ -173,7 +173,7 @@ I use AI every day to learn faster, ship faster and break things in more interes
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-season-animate.svg" />
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-season-animate.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/profile-season-animate.svg" width="100%" />
 </picture>
 
 <picture>
@@ -188,7 +188,7 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/github-snake.svg" width="100%" />
 </picture>
 
 **👾 Pac-Man**
@@ -196,7 +196,7 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
 **🧱 Breakout**
@@ -204,7 +204,7 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/breakout-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/breakout-contribution-graph.svg" />
-  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/breakout-contribution-graph.svg" />
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/output/breakout-contribution-graph.svg" width="100%" />
 </picture>
 
 <picture>

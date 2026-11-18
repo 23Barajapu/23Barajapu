@@ -37,6 +37,22 @@ jobs:
       - name: collect 3D SVGs
         run: sudo cp profile-3d-contrib/*.svg dist/
 
+      - name: make arcade SVGs responsive
+        # pac-man/breakout ship a fixed width and no viewBox, so they get cropped instead of scaled
+        run: |
+          sudo python3 - <<'PY'
+          import glob, re
+          for f in glob.glob("dist/pacman-*.svg") + glob.glob("dist/breakout-*.svg"):
+              s = open(f).read()
+              head = re.search(r"<svg\b[^>]*>", s).group(0)
+              if "viewBox" in head:
+                  continue
+              w = re.search(r'\bwidth="([\d.]+)', head).group(1)
+              h = re.search(r'\bheight="([\d.]+)', head).group(1)
+              open(f, "w").write(s.replace(head, head[:-1] + f' viewBox="0 0 {w} {h}">', 1))
+              print("fixed", f, w, h)
+          PY
+
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

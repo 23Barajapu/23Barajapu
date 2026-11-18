@@ -229,13 +229,10 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
   <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/sections/break.svg?v=3" width="100%" alt="Break Time" />
 </picture>
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="dev joke" />
-
-</div>
+<picture>
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/break.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/break.svg?v=3" width="100%" alt="Rotating dev quotes and jokes" />
+</picture>
 
 <div align="center">
 

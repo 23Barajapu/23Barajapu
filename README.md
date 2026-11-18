@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Hiroyuki%20Takayumi&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=36&desc=%E9%AB%98%E5%BC%93%E8%A3%95%E4%B9%8B&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="assets/header.svg" width="100%" alt="Hiroyuki Takayumi" />
 
 <div align="center">
 
-<a href="https://github.com/Hiroyki"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Turning+coffee+into+code+%E2%98%95;Linux+%E2%80%A2+CLI+tools+%E2%80%A2+Modern+web;Exploring+AI+agents+%26+automation+%F0%9F%A4%96;Shipping+with+Claude+Code+%26+OpenCode+%E2%9A%A1;Based+in+Jakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
+<a href="https://github.com/Hiroyki"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Halo!+Hello!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+%F0%9F%91%8B;Turning+coffee+into+code+%E2%98%95;Linux+%E2%80%A2+CLI+tools+%E2%80%A2+Modern+web;Exploring+AI+agents+%26+automation+%F0%9F%A4%96;Shipping+with+Claude+Code+%26+OpenCode+%E2%9A%A1;Based+in+Jakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
 
 <a href="https://www.linkedin.com/in/fikri-rahmatulloh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/faquloh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -23,12 +23,42 @@
 
 I like figuring out how things work, then building my own version of them. Most days that means Linux, CLI tools, modern web tech, and lately a lot of AI.
 
-- 🔭 Building **[Svara](https://github.com/Hiroyki/Svara)**, an ad-light music player for web, Windows and Android
-- 🏝️ Hacking on **Nusa**, a Dynamic Island for MacBook, Windows and Linux
-- 🤖 Learning AI agents, agentic workflows and automation, usually with Claude Code, OpenCode or Pi in the terminal
-- 🛠️ Into open source, developer tools and anything that saves me a few keystrokes
+I care about the design side as much as the code, and I love making things people actually use. These days I bounce between web, desktop and Android, usually with an AI agent open in the next terminal tab.
+
+**🚧 What I'm building**
+
+- 🎵 **[Svara](https://github.com/Hiroyki/Svara)**: an ad-light music player for the YouTube Music catalog, on web, Windows and Android
+- 🏝️ **Nusa**: a Dynamic Island for MacBook, Windows and Linux (fun fact: *nusa* means "island" in Indonesian)
+- 🐾 **Pawdrop**: send files to devices nearby, with installers for Windows, macOS and Linux
+- 🍅 **Pomodoro Timer**: a lo-fi focus timer with a pixel-art room to work in
+
+**🧠 What I'm into**
+
+- 🤖 AI agents, agentic workflows and automation, usually with Claude Code, OpenCode or Pi in the terminal
+- 🐧 Linux and the command line. If it can be a CLI, it probably should be
+- 🛠️ Open source, developer tools and anything that saves me a few keystrokes
+- 🎨 Design and video too: Photoshop, Illustrator, Premiere Pro and After Effects
+- 📱 Shipping the same idea across web, desktop and mobile
+
+**⚡ Quick facts**
+
+- 📍 Based in Jakarta, Indonesia 🇮🇩
+- ☕ Runs on coffee, lo-fi beats and way too many browser tabs
 - 🌱 Always shipping side projects, some finished, most "almost done"
-- 💬 Ask me about web dev, Linux or making apps look nice
+- 💬 Ask me about web dev, Linux, AI tools or making apps look nice
+- 🤝 Open to collabs, especially on open source and developer tools
+
+```ts
+const hiroyuki = {
+  location: "Jakarta, Indonesia",
+  languages: ["TypeScript", "JavaScript", "Java", "Swift"],
+  building: ["Svara", "Nusa", "Pawdrop", "Pomodoro Timer"],
+  learning: ["AI agents", "automation", "software development"],
+  aiSidekicks: ["Claude Code", "OpenCode", "Pi", "ChatGPT", "Gemini"],
+  fuel: "coffee",
+  motto: "Stay curious, keep exploring, never stop building",
+};
+```
 
 > *Stay curious, keep exploring, and never stop building.* 🚀
 
@@ -37,6 +67,11 @@ I like figuring out how things work, then building my own version of them. Most 
 <div align="center">
 
 <a href="https://github.com/Hiroyki/Svara"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroyki&repo=Svara&theme=tokyonight&hide_border=true&border_radius=10" alt="Svara" /></a>
+
+<br />
+<img src="https://img.shields.io/github/last-commit/Hiroyki/Svara?style=flat-square&label=last%20commit&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
+<img src="https://img.shields.io/github/languages/code-size/Hiroyki/Svara?style=flat-square&color=bb9af7&labelColor=1a1b27" alt="code size" />
+<img src="https://img.shields.io/github/stars/Hiroyki/Svara?style=flat-square&color=e0af68&labelColor=1a1b27" alt="stars" />
 
 </div>
 
@@ -119,8 +154,9 @@ I use AI every day to learn faster, ship faster and break things in more interes
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hiroyki&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroyki&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="170" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/main/profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="stats" />
+<img src="https://raw.githubusercontent.com/Hiroyki/Hiroyki/main/profile-summary-card-output/tokyonight/4-productive-time.svg" height="170" alt="productive time" />
+
 
 <img src="https://streak-stats.demolab.com?user=Hiroyki&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="GitHub streak" />
 
@@ -182,4 +218,4 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="See you around" />

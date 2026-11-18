@@ -13,7 +13,7 @@
 <a href="https://github.com/Hiroyki?tab=repositories"><img src="https://img.shields.io/github/stars/Hiroyki?style=for-the-badge&logo=github&label=Stars&color=e0af68&labelColor=1a1b27&affiliations=OWNER" alt="stars" /></a>
 <img src="https://img.shields.io/badge/Open%20to-Collab-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="open to collab" />
 
-<img src="https://count.getloli.com/@:Hiroyki?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="profile views" />
+<img src="https://count.getloli.com/@:Hiroyki?theme=cat-girls-yay&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="profile views" />
 
 </div>
 

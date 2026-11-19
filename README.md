@@ -36,7 +36,7 @@ I care about the design side as much as the code, and I love making things peopl
 **🚧 What I'm building**
 
 - 🎵 **[Svara](https://github.com/Hiroyki/Svara)**: an ad-light music player for the YouTube Music catalog, on web, Windows and Android
-- 🏝️ **Nusa**: a Dynamic Island for MacBook, Windows and Linux (fun fact: *nusa* means "island" in Indonesian)
+- 🏝️ **[Nusa](https://github.com/Hiroyki/nusa)**: a Dynamic Island for MacBook, Windows and Linux (fun fact: *nusa* means "island" in Indonesian)
 - 🐾 **Pawdrop**: send files to devices nearby, with installers for Windows, macOS and Linux
 - 🍅 **Pomodoro Timer**: a lo-fi focus timer with a pixel-art room to work in
 
@@ -75,7 +75,7 @@ I care about the design side as much as the code, and I love making things peopl
 
 <p align="center">
   <a href="https://github.com/Hiroyki/Svara"><img src="assets/projects/svara.svg?v=3" alt="Svara: open the repo" /></a>
-  <a href="https://github.com/Hiroyki?tab=repositories"><img src="assets/projects/nusa.svg?v=3" alt="Nusa (private)" /></a>
+  <a href="https://github.com/Hiroyki/nusa"><img src="assets/projects/nusa.svg?v=4" alt="Nusa: open the repo" /></a>
   <a href="https://github.com/Hiroyki?tab=repositories"><img src="assets/projects/pawdrop.svg?v=3" alt="Pawdrop (private)" /></a>
   <a href="https://github.com/Hiroyki?tab=repositories"><img src="assets/projects/pomodoro.svg?v=3" alt="Pomodoro Timer (private)" /></a>
 </p>
@@ -87,7 +87,14 @@ I care about the design side as much as the code, and I love making things peopl
   <img src="https://img.shields.io/github/stars/Hiroyki/Svara?style=flat-square&color=e0af68&labelColor=1a1b27" alt="stars" />
 </p>
 
-<p align="center"><sub>🔒 Nusa, Pawdrop and Pomodoro Timer are private for now. They'll go public once they're ready.</sub></p>
+<p align="center">
+  <a href="https://github.com/Hiroyki/nusa"><img src="https://img.shields.io/badge/Nusa-open%20repo-5edcaa?style=flat-square&logo=github&labelColor=1a1b27" alt="open Nusa" /></a>
+  <img src="https://img.shields.io/github/last-commit/Hiroyki/nusa?style=flat-square&label=last%20commit&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
+  <img src="https://img.shields.io/github/languages/code-size/Hiroyki/nusa?style=flat-square&color=9ece6a&labelColor=1a1b27" alt="code size" />
+  <img src="https://img.shields.io/github/stars/Hiroyki/nusa?style=flat-square&color=e0af68&labelColor=1a1b27" alt="stars" />
+</p>
+
+<p align="center"><sub>🔒 Pawdrop and Pomodoro Timer are private for now. They'll go public once they're ready.</sub></p>
 
 <picture>
   <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/section-journey.svg?v=3" />

@@ -12,6 +12,6 @@ body:
     id: message
     attributes:
       label: Message
-      placeholder: "Nice profile! Svara looks cool 🎵"
+      placeholder: "Keren profilnya! BINAR & cleaner-windows mantap 🚀"
     validations:
       required: true

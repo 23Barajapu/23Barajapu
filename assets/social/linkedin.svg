@@ -21,7 +21,7 @@
     <rect class="sh" x="0" y="-10" width="70" height="84" fill="url(#s)"/>
     <g transform="translate(20 20)"><g class="ic"><rect x="0" y="0" width="24" height="24" rx="5" fill="#fff"/><rect x="4.5" y="9.5" width="3.2" height="10" fill="#0A66C2"/><circle cx="6.1" cy="6" r="1.9" fill="#0A66C2"/><path d="M10.2 9.5h3v1.4c.5-.9 1.6-1.6 3.1-1.6 2.6 0 3.3 1.7 3.3 4.1v6.1h-3.2v-5.4c0-1.2-.3-2-1.4-2-1.2 0-1.6.9-1.6 2.1v5.3h-3.2z" fill="#0A66C2"/></g></g>
     <text x="60" y="30" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#fff">LinkedIn</text>
-    <text x="60" y="48" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="12" fill="#fff" fill-opacity=".8">fikri-rahmatulloh</text>
+    <text x="60" y="48" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="12" fill="#fff" fill-opacity=".8">barajapu</text>
     <g class="ar"><path d="M226 25 l8 7 -8 7" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g>
   </g>
   <rect x=".5" y=".5" width="259" height="63" rx="16" fill="none" stroke="#fff" stroke-opacity=".18"/>

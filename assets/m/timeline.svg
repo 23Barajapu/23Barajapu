@@ -32,34 +32,34 @@
     <g class="pop" style="animation-delay:0.30s"><circle class="pulse" style="animation-delay:0.70s" cx="60" cy="100" r="22" fill="#7aa2f7" fill-opacity=".25"/>
       <circle cx="60" cy="100" r="22" fill="#1a1b27" stroke="#7aa2f7" stroke-width="2.5"/>
       <text x="60" y="107" text-anchor="middle" font-size="20">👋</text>
-      <text x="104" y="84" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#7aa2f7">Oct 10 · 2026</text>
-      <text x="104" y="108" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="19" font-weight="700" fill="#c0caf5">Joined GitHub</text>
+      <text x="104" y="84" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#7aa2f7">2023</text>
+      <text x="104" y="108" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="19" font-weight="700" fill="#c0caf5">Started Journey</text>
       <text x="104" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="14" fill="#a9b1d6">hello, world</text></g><g class="pop" style="animation-delay:0.60s"><circle class="pulse" style="animation-delay:1.00s" cx="60" cy="192" r="22" fill="#9ece6a" fill-opacity=".25"/>
       <circle cx="60" cy="192" r="22" fill="#1a1b27" stroke="#9ece6a" stroke-width="2.5"/>
-      <text x="60" y="199" text-anchor="middle" font-size="20">🍅</text>
-      <text x="104" y="176" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#9ece6a">Oct 17 · 2026</text>
-      <text x="104" y="200" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="19" font-weight="700" fill="#c0caf5">Pomodoro Timer</text>
-      <text x="104" y="222" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="14" fill="#a9b1d6">lo-fi focus timer</text></g><g class="pop" style="animation-delay:0.90s"><circle class="pulse" style="animation-delay:1.30s" cx="60" cy="284" r="22" fill="#5edcaa" fill-opacity=".25"/>
+      <text x="60" y="199" text-anchor="middle" font-size="20">👥</text>
+      <text x="104" y="176" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#9ece6a">Dec 2023</text>
+      <text x="104" y="200" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="19" font-weight="700" fill="#c0caf5">Anggota Dept. PSDA</text>
+      <text x="104" y="222" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="14" fill="#a9b1d6">HIMATIKOM POLSUB</text></g><g class="pop" style="animation-delay:0.90s"><circle class="pulse" style="animation-delay:1.30s" cx="60" cy="284" r="22" fill="#5edcaa" fill-opacity=".25"/>
       <circle cx="60" cy="284" r="22" fill="#1a1b27" stroke="#5edcaa" stroke-width="2.5"/>
-      <text x="60" y="291" text-anchor="middle" font-size="20">🏝️</text>
-      <text x="104" y="268" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#5edcaa">Nov 09 · 2026</text>
-      <text x="104" y="292" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="19" font-weight="700" fill="#c0caf5">Nusa</text>
-      <text x="104" y="314" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="14" fill="#a9b1d6">Dynamic Island everywhere</text></g><g class="pop" style="animation-delay:1.20s"><circle class="pulse" style="animation-delay:1.60s" cx="60" cy="376" r="22" fill="#9a6bff" fill-opacity=".25"/>
+      <text x="60" y="291" text-anchor="middle" font-size="20">🌾</text>
+      <text x="104" y="268" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#5edcaa">2024</text>
+      <text x="104" y="292" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="19" font-weight="700" fill="#c0caf5">SIMPADA &amp; MIS</text>
+      <text x="104" y="314" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="14" fill="#a9b1d6">agriculture DSS &amp; GIS</text></g><g class="pop" style="animation-delay:1.20s"><circle class="pulse" style="animation-delay:1.60s" cx="60" cy="376" r="22" fill="#9a6bff" fill-opacity=".25"/>
       <circle cx="60" cy="376" r="22" fill="#1a1b27" stroke="#9a6bff" stroke-width="2.5"/>
-      <text x="60" y="383" text-anchor="middle" font-size="20">🐾</text>
-      <text x="104" y="360" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#9a6bff">Nov 14 · 2026</text>
-      <text x="104" y="384" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="19" font-weight="700" fill="#c0caf5">Pawdrop</text>
-      <text x="104" y="406" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="14" fill="#a9b1d6">files, but nearby</text></g><g class="pop" style="animation-delay:1.50s"><circle class="pulse" style="animation-delay:1.90s" cx="60" cy="468" r="22" fill="#3ddc6b" fill-opacity=".25"/>
+      <text x="60" y="383" text-anchor="middle" font-size="20">💰</text>
+      <text x="104" y="360" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#9a6bff">2024</text>
+      <text x="104" y="384" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="19" font-weight="700" fill="#c0caf5">Money Management</text>
+      <text x="104" y="406" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="14" fill="#a9b1d6">React, TS &amp; Supabase</text></g><g class="pop" style="animation-delay:1.50s"><circle class="pulse" style="animation-delay:1.90s" cx="60" cy="468" r="22" fill="#3ddc6b" fill-opacity=".25"/>
       <circle cx="60" cy="468" r="22" fill="#1a1b27" stroke="#3ddc6b" stroke-width="2.5"/>
-      <text x="60" y="475" text-anchor="middle" font-size="20">🎵</text>
-      <text x="104" y="452" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#3ddc6b">Nov 18 · 2026</text>
-      <text x="104" y="476" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="19" font-weight="700" fill="#c0caf5">Svara goes public</text>
-      <text x="104" y="498" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="14" fill="#a9b1d6">+ this profile glow-up</text></g><g class="pop" style="animation-delay:1.80s"><circle cx="60" cy="560" r="24" fill="none" stroke="#f7768e" stroke-width="2" stroke-dasharray="4 5" class="spin"/>
+      <text x="60" y="475" text-anchor="middle" font-size="20">🎓</text>
+      <text x="104" y="452" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#3ddc6b">Dec 2024</text>
+      <text x="104" y="476" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="19" font-weight="700" fill="#c0caf5">Ketua HIMATIKOM</text>
+      <text x="104" y="498" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="14" fill="#a9b1d6">POLSUB 2024 - 2025</text></g><g class="pop" style="animation-delay:1.80s"><circle cx="60" cy="560" r="24" fill="none" stroke="#f7768e" stroke-width="2" stroke-dasharray="4 5" class="spin"/>
       <circle cx="60" cy="560" r="22" fill="#1a1b27" stroke="#f7768e" stroke-width="2.5"/>
-      <text x="60" y="567" text-anchor="middle" font-size="20">🚀</text>
-      <text x="104" y="544" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#f7768e">Next · soon™</text>
-      <text x="104" y="568" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="19" font-weight="700" fill="#c0caf5">???</text>
-      <text x="104" y="590" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="14" fill="#a9b1d6">stay tuned</text></g>
+      <text x="60" y="567" text-anchor="middle" font-size="20">🎧</text>
+      <text x="104" y="544" font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#f7768e">Now · Building</text>
+      <text x="104" y="568" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="19" font-weight="700" fill="#c0caf5">BINAR (Bina Netra)</text>
+      <text x="104" y="590" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="14" fill="#a9b1d6">Rust &amp; Flutter Platform</text></g>
   </g>
   <rect x=".5" y=".5" width="479" height="629" rx="20" fill="none" stroke="#bb9af7" stroke-opacity=".25"/>
 </svg>

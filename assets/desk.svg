@@ -102,7 +102,7 @@
 
     <!-- desk lamp light -->
     <rect x="0" y="246" width="360" height="44" fill="url(#lamp)"/>
-    <text x="180.0" y="274" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace" font-size="11" fill="#565f89">~/jakarta · 02:14 · still coding</text>
+    <text x="180.0" y="274" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace" font-size="11" fill="#565f89">~/subang · 02:14 · still coding</text>
   </g>
   <rect x=".5" y=".5" width="359" height="289" rx="20" fill="none" stroke="#7aa2f7" stroke-opacity=".25"/>
 </svg>

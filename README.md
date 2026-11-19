@@ -7,10 +7,10 @@
 
 <a href="https://github.com/23Barajapu"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Halo!+Hello!+%F0%9F%91%8B;Building+BINAR+(Bina+Netra)+%F0%9F%8E%A7;Fullstack+Developer+%26+Tech+Innovator+%E2%9A%A1;Rust+%E2%80%A2+Flutter+%E2%80%A2+React+%E2%80%A2+Laravel+%F0%9F%9A%80;Ketua+HIMATIKOM+POLSUB+%F0%9F%8E%93;Based+in+Subang%2C+West+Java%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
 
-<a href="https://www.linkedin.com/in/barajapu/"><img src="assets/social/linkedin.svg?v=2" width="170" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/barajapu_"><img src="assets/social/instagram.svg?v=2" width="170" alt="Instagram" /></a>
-<a href="https://bara-portfolio-self.vercel.app/"><img src="assets/social/portfolio.svg?v=1" width="170" alt="Portfolio" /></a>
-<a href="mailto:barajapu23@gmail.com"><img src="assets/social/gmail.svg?v=2" width="236" alt="Email: barajapu23@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/barajapu/"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/social/linkedin.svg?v=4" width="170" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/barajapu_"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/social/instagram.svg?v=4" width="170" alt="Instagram" /></a>
+<a href="https://bara-portfolio-self.vercel.app/"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/social/portfolio.svg?v=4" width="170" alt="Portfolio" /></a>
+<a href="mailto:barajapu23@gmail.com"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/social/gmail.svg?v=4" width="236" alt="Email: barajapu23@gmail.com" /></a>
 
 <br />
 
@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/sections/about.svg?v=3" width="100%" alt="About Me" />
 </picture>
 
-<p align="center"><img src="assets/desk.svg?v=3" width="360" alt="A cozy coding desk: sleeping cat, coffee and code" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/desk.svg?v=4" width="360" alt="A cozy coding desk: sleeping cat, coffee and code" /></p>
 
 Saya adalah seorang **Web & Mobile Developer** dan **Tech Innovator** yang berfokus pada pengembangan antarmuka pengguna yang interaktif, responsif, dan berkinerja tinggi. Memiliki passion mendalam dalam mentransformasikan ide serta rancangan arsitektur kompleks menjadi aplikasi web dan mobile yang intuitif dengan seamless user experience.
 
@@ -76,10 +76,10 @@ Saat ini mengemban amanah sebagai **Ketua Himpunan Mahasiswa Teknologi Informasi
 </picture>
 
 <p align="center">
-  <a href="https://github.com/23Barajapu/Binar"><img src="assets/projects/binar.svg?v=1" alt="BINAR (Bina Netra): open the repo" /></a>
-  <a href="https://github.com/23Barajapu/cleaner-windows"><img src="assets/projects/cleaner-windows.svg?v=3" alt="cleaner-windows: open the repo" /></a>
-  <a href="https://github.com/23Barajapu/money-management"><img src="assets/projects/money-management.svg?v=3" alt="money-management: open the repo" /></a>
-  <a href="https://github.com/23Barajapu?tab=repositories"><img src="assets/projects/simpada.svg?v=3" alt="SIMPADA: Agriculture WebGIS" /></a>
+  <a href="https://github.com/23Barajapu/Binar"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/projects/binar.svg?v=4" alt="BINAR (Bina Netra): open the repo" /></a>
+  <a href="https://github.com/23Barajapu/cleaner-windows"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/projects/cleaner-windows.svg?v=4" alt="cleaner-windows: open the repo" /></a>
+  <a href="https://github.com/23Barajapu/money-management"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/projects/money-management.svg?v=4" alt="money-management: open the repo" /></a>
+  <a href="https://github.com/23Barajapu?tab=repositories"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/projects/simpada.svg?v=4" alt="SIMPADA: Agriculture WebGIS" /></a>
 </p>
 
 <p align="center">
@@ -247,7 +247,7 @@ My commits, eaten by a snake, chased by Pac-Man and smashed in Breakout. Refresh
 
 <div align="center">
 
-<img src="assets/jakarta.svg?v=2" width="100%" alt="Subang at night" />
+<img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/jakarta.svg?v=4" width="100%" alt="Subang at night" />
 
 **Terima kasih telah berkunjung!** ⭐ Dibuat dengan ☕ dari Subang, Indonesia. Jangan ragu menjelajahi repositori saya.
 

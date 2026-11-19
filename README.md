@@ -11,7 +11,6 @@
 <a href="https://www.instagram.com/faquloh"><img src="assets/social/instagram.svg?v=2" width="170" alt="Instagram" /></a>
 <a href="https://x.com/quraishlo"><img src="assets/social/x.svg?v=2" width="170" alt="X" /></a>
 <a href="https://t.me/hiroykitaka"><img src="assets/social/telegram.svg?v=2" width="170" alt="Telegram: @hiroykitaka" /></a>
-<a href="https://wa.me/6285133162432"><img src="assets/social/whatsapp.svg?v=2" width="170" alt="WhatsApp" /></a>
 <br />
 <a href="mailto:quraishrahmatulloh@gmail.com"><img src="assets/social/gmail.svg?v=2" width="236" alt="Email: quraishrahmatulloh@gmail.com" /></a>
 

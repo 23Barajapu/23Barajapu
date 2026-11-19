@@ -76,10 +76,10 @@ Saat ini mengemban amanah sebagai **Ketua Himpunan Mahasiswa Teknologi Informasi
 </picture>
 
 <p align="center">
-  <a href="https://github.com/23Barajapu/Binar"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/projects/binar.svg?v=4" alt="BINAR (Bina Netra): open the repo" /></a>
-  <a href="https://github.com/23Barajapu/cleaner-windows"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/projects/cleaner-windows.svg?v=4" alt="cleaner-windows: open the repo" /></a>
-  <a href="https://github.com/23Barajapu/money-management"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/projects/money-management.svg?v=4" alt="money-management: open the repo" /></a>
-  <a href="https://github.com/23Barajapu?tab=repositories"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/projects/simpada.svg?v=4" alt="SIMPADA: Agriculture WebGIS" /></a>
+  <a href="https://github.com/23Barajapu/Binar"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/projects/binar.svg?v=7" alt="BINAR (Bina Netra): open the repo" /></a>
+  <a href="https://github.com/23Barajapu/cleaner-windows"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/projects/cleaner-windows.svg?v=7" alt="cleaner-windows: open the repo" /></a>
+  <a href="https://github.com/23Barajapu/money-management"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/projects/money-management.svg?v=7" alt="money-management: open the repo" /></a>
+  <a href="https://github.com/23Barajapu?tab=repositories"><img src="https://raw.githubusercontent.com/23Barajapu/23Barajapu/main/assets/projects/simpada.svg?v=7" alt="SIMPADA: Agriculture WebGIS" /></a>
 </p>
 
 <p align="center">

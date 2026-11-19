@@ -9,6 +9,9 @@
       .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif; }
       .mono { font-family: 'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace; }
       .blink { animation: blink 1s steps(1) infinite; } @keyframes blink { 50% { opacity: 0; } }
+      .star { animation: twinkle 3s ease-in-out infinite; }
+      .s2 { animation-delay: .8s; } .s3 { animation-delay: 1.6s; } .s4 { animation-delay: 2.2s; }
+      @keyframes twinkle { 0%,100% { opacity: .9; } 50% { opacity: .15; } }
       .pulse { animation: pulse 2s ease-out infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes pulse { 0% { transform: scale(1); opacity: .8; } 100% { transform: scale(2.8); opacity: 0; } }
       .shine { animation: shine 6s ease-in-out infinite; }
@@ -22,13 +25,13 @@
     <circle cx="350" cy="10" r="150" fill="url(#gl)"><animate attributeName="r" values="130;165;130" dur="6s" repeatCount="indefinite"/></circle>
     <rect class="shine" x="0" y="0" width="180" height="222" fill="url(#shine)"/>
     <rect width="390" height="4" fill="url(#g)"/>
-    <g class="bob"><rect x="22" y="22" width="54" height="54" rx="14" fill="#f7768e" fill-opacity=".15" stroke="#f7768e" stroke-opacity=".6" stroke-width="1.5"/><svg x="32" y="32" width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="#f7768e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 18v-6a9 9 0 0 1 18 0v6"/><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"/></svg></g>
-    <text x="92" y="48" class="sans" font-size="21" font-weight="800" fill="#c0caf5">BINAR (Bina Netra)</text>
+    <g class="bob"><image x="22" y="22" width="54" height="54" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAgMTIwIj48cmVjdCB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgcng9IjI2IiBmaWxsPSIjZjc3NjhlIi8+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzAsIDMwKSBzY2FsZSgyLjUpIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgogICAgPHBhdGggZD0iTTMgMTh2LTZhOSA5IDAgMCAxIDE4IDB2NiIvPgogICAgPHBhdGggZD0iTTIxIDE5YTIgMiAwIDAgMS0yIDJoLTFhMiAyIDAgMCAxLTItMnYtM2EyIDIgMCAwIDEgMi0yaDN6TTMgMTlhMiAyIDAgMCAwIDIgMmgxYTIgMiAwIDAgMCAyLTJ2LTNhMiAyIDAgMCAwLTItMkgzeiIvPgogIDwvZz4KPC9zdmc+"/></g>
+    <text x="92" y="48" class="sans" font-size="22" font-weight="800" fill="#c0caf5">BINAR (Bina Netra)</text>
     <rect x="92" y="60" width="116" height="22" rx="11" fill="#f7768e" fill-opacity=".12" stroke="#f7768e" stroke-opacity=".45"/>
     <circle class="pulse" cx="106" cy="71" r="3.5" fill="#f7768e"/><circle cx="106" cy="71" r="3.5" fill="#f7768e"/>
     <text x="116" y="75" class="sans" font-size="10" font-weight="700" letter-spacing="1" fill="#f7768e">IN PROGRESS</text>
-    <text x="24" y="124" class="sans" font-size="14.5" fill="#a9b1d6">Audiobook & Exam Platform for Visually Impaired</text>
-    <text x="24" y="147" class="sans" font-size="14.5" fill="#a9b1d6">SLB Negeri Subang · Rust Monolith & Flutter Zero-Visual.</text>
+    <text x="24" y="124" class="sans" font-size="15" fill="#a9b1d6">Audiobook &amp; Exam Platform for Visually Impaired</text>
+    <text x="24" y="147" class="sans" font-size="15" fill="#a9b1d6">SLB Negeri Subang · Rust Monolith &amp; Flutter UI.</text>
     <rect x="24" y="172" width="58" height="26" rx="13" fill="#f7768e" fill-opacity=".12" stroke="#f7768e" stroke-opacity=".4"/><text x="53.0" y="189.5" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#f7768e">Rust</text><rect x="90" y="172" width="83.5" height="26" rx="13" fill="#f7768e" fill-opacity=".12" stroke="#f7768e" stroke-opacity=".4"/><text x="131.8" y="189.5" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#f7768e">Flutter</text><rect x="181.5" y="172" width="83.5" height="26" rx="13" fill="#f7768e" fill-opacity=".12" stroke="#f7768e" stroke-opacity=".4"/><text x="223.3" y="189.5" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#f7768e">STT/TTS</text><rect x="273" y="172" width="109" height="26" rx="13" fill="#f7768e" fill-opacity=".12" stroke="#f7768e" stroke-opacity=".4"/><text x="327.5" y="189.5" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#f7768e">PostgreSQL</text>
   </g>
   <rect x=".5" y=".5" width="389" height="221" rx="18" fill="none" stroke="#f7768e" stroke-opacity=".3"/>

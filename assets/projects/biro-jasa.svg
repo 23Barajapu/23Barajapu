@@ -1,15 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="390" height="222" viewBox="0 0 390 222" role="img" aria-label="Biro Jasa Mahkota">
   <title>Biro Jasa Mahkota</title>
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9a6bff"/><stop offset="1" stop-color="#7dcfff"/></linearGradient>
     <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
-    <radialGradient id="gl" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#7aa2f7" stop-opacity=".28"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gl" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#9a6bff" stop-opacity=".28"/><stop offset="1" stop-color="#9a6bff" stop-opacity="0"/></radialGradient>
     <clipPath id="c"><rect width="390" height="222" rx="18"/></clipPath>
     <style>
       .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif; }
       .mono { font-family: 'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace; }
       .blink { animation: blink 1s steps(1) infinite; } @keyframes blink { 50% { opacity: 0; } }
       .star { animation: twinkle 3s ease-in-out infinite; }
+      .s2 { animation-delay: .8s; } .s3 { animation-delay: 1.6s; } .s4 { animation-delay: 2.2s; }
       @keyframes twinkle { 0%,100% { opacity: .9; } 50% { opacity: .15; } }
       .pulse { animation: pulse 2s ease-out infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes pulse { 0% { transform: scale(1); opacity: .8; } 100% { transform: scale(2.8); opacity: 0; } }
@@ -24,14 +25,14 @@
     <circle cx="350" cy="10" r="150" fill="url(#gl)"><animate attributeName="r" values="130;165;130" dur="6s" repeatCount="indefinite"/></circle>
     <rect class="shine" x="0" y="0" width="180" height="222" fill="url(#shine)"/>
     <rect width="390" height="4" fill="url(#g)"/>
-    <g class="bob"><rect x="22" y="22" width="54" height="54" rx="14" fill="#7aa2f7" fill-opacity=".15" stroke="#7aa2f7" stroke-opacity=".6" stroke-width="1.5"/><svg x="32" y="32" width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="#7aa2f7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg></g>
+    <g class="bob"><image x="22" y="22" width="54" height="54" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAgMTIwIj48cmVjdCB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgcng9IjI2IiBmaWxsPSIjOWVjZTZhIi8+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzAsIDMwKSBzY2FsZSgyLjUpIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgogICAgPHBhdGggZD0iTTcgMjBoMTAiLz4KICAgIDxwYXRoIGQ9Ik0xMCAyMGM1LjUtMi41LjgtNi40IDMtMTMiLz4KICAgIDxwYXRoIGQ9Ik05LjUgOS40YzEuMS44IDEuOCAyLjIgMi4zIDMuNy0yIC40LTMuNS40LTQuOC0uMy0xLjItLjYtMi4zLTEuOS0zLTQuMiAyLjgtLjUgNC40IDAgNS41Ljh6Ii8+CiAgICA8cGF0aCBkPSJNMTQuMSA2YTcgNyAwIDAgMSA0IDJjMiAyLjUgMSA1LjUtLjUgNy41LTEuNS0xLjUtMi41LTMuNS0zLjUtOS41eiIvPgogIDwvZz4KPC9zdmc+"/></g>
     <text x="92" y="48" class="sans" font-size="22" font-weight="800" fill="#c0caf5">Biro Jasa Mahkota</text>
-    <rect x="92" y="60" width="108" height="22" rx="11" fill="#7aa2f7" fill-opacity=".12" stroke="#7aa2f7" stroke-opacity=".45"/>
-    <circle class="pulse" cx="106" cy="71" r="3.5" fill="#7aa2f7"/><circle cx="106" cy="71" r="3.5" fill="#7aa2f7"/>
-    <text x="116" y="75" class="sans" font-size="10" font-weight="700" letter-spacing="1" fill="#7aa2f7">ENTERPRISE</text>
-    <text x="24" y="124" class="sans" font-size="15" fill="#a9b1d6">Sistem Pengurusan Dokumen Kendaraan</text>
-    <text x="24" y="147" class="sans" font-size="15" fill="#a9b1d6">Layanan administrasi STNK, BPKB, Balik Nama & Mutasi.</text>
-    <rect x="24" y="172" width="50" height="26" rx="13" fill="#7aa2f7" fill-opacity=".12" stroke="#7aa2f7" stroke-opacity=".4"/><text x="49.0" y="189.5" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#7aa2f7">PHP</text><rect x="82" y="172" width="83.5" height="26" rx="13" fill="#7aa2f7" fill-opacity=".12" stroke="#7aa2f7" stroke-opacity=".4"/><text x="123.8" y="189.5" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#7aa2f7">Laravel</text><rect x="173.5" y="172" width="66.5" height="26" rx="13" fill="#7aa2f7" fill-opacity=".12" stroke="#7aa2f7" stroke-opacity=".4"/><text x="206.8" y="189.5" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#7aa2f7">MySQL</text><rect x="248" y="172" width="100.5" height="26" rx="13" fill="#7aa2f7" fill-opacity=".12" stroke="#7aa2f7" stroke-opacity=".4"/><text x="298.3" y="189.5" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#7aa2f7">Bootstrap</text>
+    <rect x="92" y="60" width="76" height="22" rx="11" fill="#9a6bff" fill-opacity=".12" stroke="#9a6bff" stroke-opacity=".45"/>
+    <circle class="pulse" cx="106" cy="71" r="3.5" fill="#9a6bff"/><circle cx="106" cy="71" r="3.5" fill="#9a6bff"/>
+    <text x="116" y="75" class="sans" font-size="10" font-weight="700" letter-spacing="1" fill="#9a6bff">PUBLIC</text>
+    <text x="24" y="124" class="sans" font-size="15" fill="#a9b1d6">Vehicle Document Management &amp; Licensing System</text>
+    <text x="24" y="147" class="sans" font-size="15" fill="#a9b1d6">Administrative workflow automation for STNK &amp; BPKB.</text>
+    <rect x="24" y="172" width="50" height="26" rx="13" fill="#9a6bff" fill-opacity=".12" stroke="#9a6bff" stroke-opacity=".4"/><text x="49.0" y="189.5" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#9a6bff">PHP</text><rect x="82" y="172" width="83.5" height="26" rx="13" fill="#9a6bff" fill-opacity=".12" stroke="#9a6bff" stroke-opacity=".4"/><text x="123.8" y="189.5" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#9a6bff">Laravel</text><rect x="173.5" y="172" width="100.5" height="26" rx="13" fill="#9a6bff" fill-opacity=".12" stroke="#9a6bff" stroke-opacity=".4"/><text x="223.8" y="189.5" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#9a6bff">Bootstrap</text><rect x="282" y="172" width="66.5" height="26" rx="13" fill="#9a6bff" fill-opacity=".12" stroke="#9a6bff" stroke-opacity=".4"/><text x="315.3" y="189.5" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#9a6bff">MySQL</text>
   </g>
-  <rect x=".5" y=".5" width="389" height="221" rx="18" fill="none" stroke="#7aa2f7" stroke-opacity=".3"/>
+  <rect x=".5" y=".5" width="389" height="221" rx="18" fill="none" stroke="#9a6bff" stroke-opacity=".3"/>
 </svg>
